@@ -11,4 +11,6 @@ This program is not a perfect representation of the practice habits of the UW-Ma
 2. Data is compiled into dictionaries of pandas dataframes
 3. Data is written locally into a folder labeled by the week
 4. Data can then be summarized with several data points of interest such as entries_by_person, entries_by_room, and entries_by_time
-5. This summarized data can be maniuplated in different ways to depict different relationships such as practice time to grade level and practice time to room.
+5. This summarized data can be maniuplated in different ways to depict different relationships such as practice time to grade level and practice time to room. Below is a visualization of grade level versus average amount of entries for that grade level.
+
+<img src="grade_vs_avg.png" alt="grade_vs_avg">

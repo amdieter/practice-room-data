@@ -7,7 +7,7 @@ import tkinter as tk
 def get_data(week_num):
     # glibber glabber that I copied and pasted
     scope = ['https://spreadsheets.google.com/feeds']
-    credentials = ServiceAccountCredentials.from_json_keyfile_name('Documents/Python Scripts/Practice Log/practice-log-444917-d375b6889398.json', scope)
+    credentials = ServiceAccountCredentials.from_json_keyfile_name('practice-log-444917-d375b6889398.json', scope)
     gc = gspread.authorize(credentials)
 
     # spreadsheet_key = '1AgQWFFgXEYRAtokWU8NNDdGKy5R7DYBoPMFukrRtMiA' # This is the test sheet
@@ -57,8 +57,8 @@ def get_data(week_num):
                     for i in range(diff):
                         df.loc[i + idx, day] = cell
                     
-    df = df.set_index('Time').rename_axis('Time')
-    return room, df
+        df = df.set_index('Time').rename_axis('Time')
+        return room, df
 
     # rooms
     rooms = ["Studio", "1401", "1407", "1409", "1413", "1414", "1416", "1417", "1418"]
@@ -87,11 +87,11 @@ def submit():
     week_num = int(wkNum_entry.get())
     week_date = str(wkDate_entry.get())
     week_data = get_data(week_num)
-    directory = Path(f'Documents/Python Scripts/Practice Log/data/{week_date}').mkdir(parents=True, exist_ok=True) # creates directory for week date if it doesn't exist, otherwise does nothing
+    directory = Path(f'data/{week_date}').mkdir(parents=True, exist_ok=True) # creates directory for week date if it doesn't exist, otherwise does nothing
 
     # write csv files and such to store compiled week data
     for room, df in week_data.items():
-        df.to_csv("Documents/Python Scripts/Practice Log/data/"+ week_date + "/" + room + ".csv", index=True)
+        df.to_csv(f"data/{week_date}/{room}.csv", index=True)
         print(room + " data for week " + str(week_num) + " has been written to csv.")
 
     success_label = tk.Label(master, text="Submission successful! Check the data folder for the csv files.")

@@ -1,0 +1,7 @@
+streamlit
+pandas
+datetime
+python-dateutil
+gspread
+matplotlib
+oauth2client.service_account

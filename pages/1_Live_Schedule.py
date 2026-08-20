@@ -14,9 +14,9 @@ st.title("📅 Live Schedule")
 
 # @st.cache_data
 def get_data():
-    scope = ['https://spreadsheets.google.com/feeds']
-    credentials = ServiceAccountCredentials.from_json_keyfile_name('practice-log-444917-d375b6889398.json', scope)
-    gc = gspread.authorize(credentials)
+    creds_dict = st.secrets["gcp_service_account"]
+    
+    gc = gspread.service_account_from_dict(creds_dict)
 
     spreadsheet_key = '13CdEbddbIDDHdCVU9IvpHQzSB4lJroJ36Riufl5uvTk' # This is the real sheet
     book = gc.open_by_key(spreadsheet_key)

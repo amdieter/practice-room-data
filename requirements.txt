@@ -1,0 +1,8 @@
+streamlit
+pandas
+datetime
+python-dateutil
+scikit-learn
+gspread
+oauth2client
+matplotlib

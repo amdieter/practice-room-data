@@ -3,6 +3,7 @@ import pandas as pd
 import datetime
 from dateutil import parser
 import gspread
+from zoneinfo import ZoneInfo
 from oauth2client.service_account import ServiceAccountCredentials
 
 st.set_page_config(
@@ -45,7 +46,7 @@ def get_data():
     wk_sheets = [sheet for sheet in all_sheets if f"({week_num})" in sheet.title] # filter for sheets with the current week number
 
     # convert current time to 15 minute increments
-    curr_time = datetime.datetime.now().time()
+    curr_time = datetime.datetime.now(ZoneInfo("America/Chicago")).time()
     # st.write(f"The time is: {curr_time}")
 
     total_minutes = curr_time.hour * 60 + curr_time.minute

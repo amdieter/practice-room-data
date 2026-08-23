@@ -10,6 +10,8 @@ st.title("🎯 Occupancy Predictions")
 
 st.write("ML model predictions for practice room occupancy")
 
+st.write("IN PROGRESS")
+
 @st.cache_data
 def load_dataset():
     return pd.read_csv(

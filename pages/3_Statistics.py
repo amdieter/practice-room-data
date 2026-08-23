@@ -12,7 +12,7 @@ st.title("📊 Statistics")
 @st.cache_data
 def load_entries():
     return pd.read_csv(
-        "entries.csv",
+        "entries/entries-8_22_26.csv",
         parse_dates=["datetime"]
     )
 

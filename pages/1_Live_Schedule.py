@@ -22,7 +22,8 @@ def get_data():
     spreadsheet_key = '13CdEbddbIDDHdCVU9IvpHQzSB4lJroJ36Riufl5uvTk' # This is the real sheet
     book = gc.open_by_key(spreadsheet_key)
 
-    date = datetime.date.today()
+    date_time = datetime.datetime.now(ZoneInfo("America/Chicago"))
+    date = date_time.date()
     day = date.strftime('%A')
     st.write(f"Today is {day} {date}")
 
@@ -35,7 +36,7 @@ def get_data():
         for j in range(0,7):
             date_parsed = parser.parse(week[9:]).date() + datetime.timedelta(days=j)
             # st.write(f"Dates {i}: {date_parsed}")
-            if date_parsed == datetime.date.today():
+            if date_parsed == date:
                 # st.write(f"Found date {i}: {date_parsed}")
                 date_found = True
                 break
@@ -46,7 +47,7 @@ def get_data():
     wk_sheets = [sheet for sheet in all_sheets if f"({week_num})" in sheet.title] # filter for sheets with the current week number
 
     # convert current time to 15 minute increments
-    curr_time = datetime.datetime.now(ZoneInfo("America/Chicago")).time()
+    curr_time = date_time.time()
     # st.write(f"The time is: {curr_time}")
 
     total_minutes = curr_time.hour * 60 + curr_time.minute

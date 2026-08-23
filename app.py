@@ -17,7 +17,7 @@ live_schedule_page = st.Page("pages/1_Live_Schedule.py")
 occupancy_predictions_page = st.Page("pages/2_Occupancy_Predictions.py")
 statistics_page = st.Page("pages/3_Statistics.py")
 
-pg = st.navigation([live_schedule_page, occupancy_predictions_page, statistics_page])
+pg = st.navigation([live_schedule_page, occupancy_predictions_page, statistics_page], position="hidden")
 
 col1, col2, col3 = st.columns(3)
 with col1:

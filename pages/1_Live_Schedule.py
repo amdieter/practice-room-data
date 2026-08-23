@@ -50,13 +50,19 @@ def get_data():
     curr_time = date_time.time()
     # st.write(f"The time is: {curr_time}")
 
-    total_minutes = curr_time.hour * 60 + curr_time.minute
-    rounded_minutes = (total_minutes // 15) * 15
-    new_hour = rounded_minutes // 60
-    new_minute = rounded_minutes % 60
-    timeframe = datetime.time(hour=new_hour, minute=new_minute, second=0, microsecond=0)
-    timeframe_formatted = timeframe.strftime("%I:%M %p").lstrip("0")
-    st.write(f"The current timeframe is: {timeframe_formatted}")
+    def get_timeframe(curr_time):
+        total_minutes = curr_time.hour * 60 + curr_time.minute
+        rounded_minutes = (total_minutes // 15) * 15
+        new_hour = rounded_minutes // 60
+        new_minute = rounded_minutes % 60
+        timeframe = datetime.time(hour=new_hour, minute=new_minute, second=0, microsecond=0)
+        if (timeframe < datetime.time(hour=7, minute=0)) or (timeframe > datetime.time(hour=22, minute=45)):
+            return None
+        else:
+            return timeframe
+    
+    timeframe = get_timeframe(curr_time)
+    timeframe_formatted = timeframe.strftime("%I:%M %p").lstrip("0") if timeframe else None
 
     room_schedule_today = pd.DataFrame()
     rooms_occupied_now = []
@@ -67,10 +73,10 @@ def get_data():
         df = df.set_index('Time').rename_axis('Time')
         # st.write(f"Schedule for {room.title} today")
         # st.dataframe(df[day])
-
-        entry = df[day].loc[timeframe_formatted]
-        if entry != '':
-            rooms_occupied_now.append(room.title[:-3])
+        if timeframe_formatted and timeframe_formatted in df.index:
+            entry = df[day].loc[timeframe_formatted]
+            if entry != '':
+                rooms_occupied_now.append(room.title[:-3])
             # st.write(f"{room.title[:-3]} is occupied by {entry} at {timeframe_formatted}")
         # st.write(f"Current Entry for {timeframe_formatted}:")
         # st.write(df[day].loc[timeframe_formatted])
@@ -84,5 +90,7 @@ def get_data():
         st.write(f"Rooms currently occupied: {', '.join(rooms_occupied_now)}")
     else:
         st.write("No rooms are currently occupied.")
+        if not timeframe_formatted:
+            st.write("The practice rooms aren't open rn btw, I see you tryna be sneaky😏")
 
 data = get_data()

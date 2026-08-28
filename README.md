@@ -18,7 +18,7 @@ Manually collecting the reservation data that would otherwise be lost because th
 - Two inputs are required: week number and date, which tells the program what week to collect the data from and what folder to store it in
 - Once the submit button is pressed with valid inputs, that week's data is saved to a folder with the rest of the data
 
-<img src="images/data_collection_screenshot.png" alt="data_collection_screenshot">
+<img src="images/data_collection_screenshot.png" alt="data_collection_screenshot" width="50%">
 
 ### 2. Analysis (Practice Log.ipynb)
 

@@ -64,6 +64,10 @@ def entries_to_time_p_day(row):
     else: 
         return str(hours_mins[0]) + 'hrs ' + str(int(float('.'+hours_mins[1])*60)) + 'mins'
 
+def entries_to_entries_p_day(row):
+    entries_per_day = row['Entries']/(len(entries.groupby(['person',"day"]).size()[row['Name']]))  # divide by the 7 days in the week
+    return round(entries_per_day, 2)
+
 def fav(row, series):
     try:
         person_series = series.loc[row["Name"]]
@@ -85,6 +89,9 @@ def get_summarized_stats(entries):
 
     # Time Practiced
     perc_stats['Time Practiced'] = perc_stats.apply(entries_to_time, axis=1)
+
+    # Entries/Day
+    perc_stats['AVG Entries per Day'] = perc_stats.apply(entries_to_entries_p_day, axis=1)
 
     # Time/Day
     perc_stats['AVG Time per Day'] = perc_stats.apply(entries_to_time_p_day, axis=1)
@@ -112,6 +119,32 @@ option = st.selectbox(
 
 if option == "Overall":
     st.write("Overall stats for all entries in the selected timeframe")
+
+    sort_option = st.selectbox(
+        "Sort by:",
+        ("Name", "Grade", "Entries/Time Practiced", "AVG Entries/Time per Day")
+    )
+    if sort_option == "Name":
+        perc_stats = perc_stats.sort_values(by=["Name"])
+    elif sort_option == "Grade":
+        perc_stats = perc_stats.sort_values(by=["Grade"])
+    elif sort_option == "Entries/Time Practiced":
+        perc_stats = perc_stats.sort_values(by=["Entries"], ascending=False)
+    elif sort_option == "AVG Entries/Time per Day":
+        perc_stats = perc_stats.sort_values(by=["AVG Entries per Day"], ascending=False)
+
+    filter_options = st.multiselect(
+        "Filters:",
+        ["Studio Members", "Unknown Entries", "Freshman", "Sophomore", "Junior", "Senior", 
+         "Graduate", "Super-Senior", "Masters", "DMA"],
+        default=["Studio Members"],
+    )
+    if not filter_options:
+        pass
+    else:
+        perc_stats = perc_stats[perc_stats["Grade"].isin(filter_options)]
+    
+
     st.dataframe(perc_stats)
 
 if option == "Individual":

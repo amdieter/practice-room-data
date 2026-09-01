@@ -148,6 +148,7 @@ if option == "Overall":
         perc_stats = perc_stats[perc_stats["Grade"].isin(["Unknown"])]
     else:
         perc_stats = perc_stats[perc_stats["Grade"].isin(filter_options)]
+    perc_stats = perc_stats.reset_index(drop=True)
     
 
     st.dataframe(perc_stats)

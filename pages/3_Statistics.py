@@ -141,6 +141,11 @@ if option == "Overall":
     )
     if not filter_options:
         pass
+    elif "Studio Members" in filter_options:
+        perc_stats = perc_stats[perc_stats["Grade"].isin(["Freshman", "Sophomore", "Junior", "Senior", 
+                                                          "Graduate", "Super-Senior", "Masters", "DMA"])]
+    elif "Unknown Entries" in filter_options:
+        perc_stats = perc_stats[perc_stats["Grade"].isin(["Unknown"])]
     else:
         perc_stats = perc_stats[perc_stats["Grade"].isin(filter_options)]
     

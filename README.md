@@ -4,7 +4,7 @@ This project extracts the practice room data from the practice room reservation 
 
 ## Background
 
-The google spreadsheet is grouped by room, and 15 minute intervals from 7am to 11pm are available to be signed out for each room, and the sheet is reset every week (data is not saved).
+The google spreadsheet is grouped by room and 15 minute intervals from 7am to 11pm are available to be signed out for each room for every day of the week. The sheet is cleared/reset every week (data is not saved).
 
 ## How it works
 
@@ -33,11 +33,15 @@ Manually collecting the reservation data that would otherwise be lost because th
 
 ### 3. Visualization/Reports (app.py)
 
-- _Streamlit_ powered app uploaded to the Streamlit Community Cloud so anyone can access it
+- _Streamlit_ powered UW Percussion Practice Rooms app uploaded to the Streamlit Community Cloud so anyone can access it
 - Three pages:
   1. **Live Schedule** provides the schedule for the day by room and timeframe, making it easier to know what rooms are occupied that day. There is also detection for what rooms are currently occupied
   2. **Occupancy Predictions** provides predictions for occupancy of different rooms and different times using a ML model
   3. **Statistics** provides the user with various statistics based on the selected date timeframe, such as graphs and room usage
+
+## Usage
+
+The UW Percussion Practice Rooms app is available for public use. Click on [this link](uw-practice-rooms.streamlit.app) to check it out.
 
 ## Disclaimer
 

@@ -41,7 +41,7 @@ Manually collecting the reservation data that would otherwise be lost because th
 
 ## Usage
 
-The UW Percussion Practice Rooms app is available for public use. Click on [this link](uw-practice-rooms.streamlit.app) to check it out.
+The UW Percussion Practice Rooms app is available for public use. Go to this link in another browser to check it out: uw-practice-rooms.streamlit.app
 
 ## Disclaimer
 

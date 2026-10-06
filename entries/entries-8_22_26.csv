@@ -2019,6 +2019,84 @@ room,datetime,day,time,grade,person,is_lesson,is_other
 1401,2026-09-26 22:00:00,2026-09-26,10:00 PM,Senior,Nate Dreyfus,False,False
 1401,2026-09-27 14:45:00,2026-09-27,2:45 PM,Sophomore,Aidan Lishner,False,False
 1401,2026-09-27 15:00:00,2026-09-27,3:00 PM,Sophomore,Aidan Lishner,False,False
+1401,2026-09-28 09:45:00,2026-09-28,9:45 AM,Sophomore,Pete Navratil,False,False
+1401,2026-09-28 10:00:00,2026-09-28,10:00 AM,Sophomore,Pete Navratil,False,False
+1401,2026-09-28 10:15:00,2026-09-28,10:15 AM,Sophomore,Pete Navratil,False,False
+1401,2026-09-28 10:30:00,2026-09-28,10:30 AM,Senior,Kendal Schreiber,False,False
+1401,2026-09-28 10:45:00,2026-09-28,10:45 AM,Senior,Kendal Schreiber,False,False
+1401,2026-09-28 16:30:00,2026-09-28,4:30 PM,Junior,Marley Van Domelan,False,False
+1401,2026-09-28 16:45:00,2026-09-28,4:45 PM,Junior,Marley Van Domelan,False,False
+1401,2026-09-28 17:00:00,2026-09-28,5:00 PM,Junior,Marley Van Domelan,False,False
+1401,2026-09-28 17:15:00,2026-09-28,5:15 PM,Junior,Marley Van Domelan,False,False
+1401,2026-09-28 18:45:00,2026-09-28,6:45 PM,Sophomore,Aidan Lishner,False,False
+1401,2026-09-28 19:00:00,2026-09-28,7:00 PM,Sophomore,Aidan Lishner,False,False
+1401,2026-09-29 09:00:00,2026-09-29,9:00 AM,Sophomore,Aidan Lishner,False,False
+1401,2026-09-29 09:15:00,2026-09-29,9:15 AM,Sophomore,Aidan Lishner,False,False
+1401,2026-09-29 09:30:00,2026-09-29,9:30 AM,Sophomore,Aidan Lishner,False,False
+1401,2026-09-29 09:45:00,2026-09-29,9:45 AM,Sophomore,Aidan Lishner,False,False
+1401,2026-09-29 10:00:00,2026-09-29,10:00 AM,Sophomore,Aidan Lishner,False,False
+1401,2026-09-29 10:15:00,2026-09-29,10:15 AM,Sophomore,Aidan Lishner,False,False
+1401,2026-09-29 10:30:00,2026-09-29,10:30 AM,Sophomore,Aidan Lishner,False,False
+1401,2026-09-29 12:30:00,2026-09-29,12:30 PM,Senior,Nate Dreyfus,False,False
+1401,2026-09-29 12:45:00,2026-09-29,12:45 PM,Senior,Nate Dreyfus,False,False
+1401,2026-09-29 13:00:00,2026-09-29,1:00 PM,Senior,Nate Dreyfus,False,False
+1401,2026-09-29 13:15:00,2026-09-29,1:15 PM,Senior,Nate Dreyfus,False,False
+1401,2026-09-29 13:30:00,2026-09-29,1:30 PM,Senior,Nate Dreyfus,False,False
+1401,2026-09-29 14:00:00,2026-09-29,2:00 PM,Sophomore,Nick Ruplinger,False,False
+1401,2026-09-29 14:15:00,2026-09-29,2:15 PM,Sophomore,Nick Ruplinger,False,False
+1401,2026-09-29 14:30:00,2026-09-29,2:30 PM,Sophomore,Nick Ruplinger,False,False
+1401,2026-09-29 14:45:00,2026-09-29,2:45 PM,Sophomore,Nick Ruplinger,False,False
+1401,2026-09-29 16:45:00,2026-09-29,4:45 PM,Senior,Nate Dreyfus,False,False
+1401,2026-09-29 17:00:00,2026-09-29,5:00 PM,Senior,Nate Dreyfus,False,False
+1401,2026-09-29 17:15:00,2026-09-29,5:15 PM,Senior,Nate Dreyfus,False,False
+1401,2026-09-29 17:30:00,2026-09-29,5:30 PM,Senior,Nate Dreyfus,False,False
+1401,2026-09-29 17:45:00,2026-09-29,5:45 PM,Senior,Nate Dreyfus,False,False
+1401,2026-09-29 18:00:00,2026-09-29,6:00 PM,Senior,Nate Dreyfus,False,False
+1401,2026-09-29 18:15:00,2026-09-29,6:15 PM,Senior,Nate Dreyfus,False,False
+1401,2026-09-29 18:30:00,2026-09-29,6:30 PM,Senior,Nate Dreyfus,False,False
+1401,2026-09-30 08:30:00,2026-09-30,8:30 AM,DMA,Jaime Cardenas,False,False
+1401,2026-09-30 08:45:00,2026-09-30,8:45 AM,DMA,Jaime Cardenas,False,False
+1401,2026-09-30 09:00:00,2026-09-30,9:00 AM,DMA,Jaime Cardenas,False,False
+1401,2026-09-30 09:15:00,2026-09-30,9:15 AM,DMA,Jaime Cardenas,False,False
+1401,2026-09-30 09:30:00,2026-09-30,9:30 AM,DMA,Jaime Cardenas,False,False
+1401,2026-09-30 09:45:00,2026-09-30,9:45 AM,DMA,Jaime Cardenas,False,False
+1401,2026-09-30 10:00:00,2026-09-30,10:00 AM,DMA,Jaime Cardenas,False,False
+1401,2026-09-30 10:15:00,2026-09-30,10:15 AM,DMA,Jaime Cardenas,False,False
+1401,2026-09-30 11:15:00,2026-09-30,11:15 AM,DMA,Jack Johnson,False,False
+1401,2026-09-30 11:30:00,2026-09-30,11:30 AM,DMA,Jack Johnson,False,False
+1401,2026-09-30 11:45:00,2026-09-30,11:45 AM,DMA,Jack Johnson,False,False
+1401,2026-09-30 12:00:00,2026-09-30,12:00 PM,DMA,Jack Johnson,False,False
+1401,2026-09-30 12:15:00,2026-09-30,12:15 PM,DMA,Jack Johnson,False,False
+1401,2026-09-30 12:30:00,2026-09-30,12:30 PM,DMA,Jack Johnson,False,False
+1401,2026-09-30 13:15:00,2026-09-30,1:15 PM,Freshman,Dante Baker,False,False
+1401,2026-09-30 13:30:00,2026-09-30,1:30 PM,Freshman,Dante Baker,False,False
+1401,2026-09-30 13:45:00,2026-09-30,1:45 PM,Freshman,Dante Baker,False,False
+1401,2026-09-30 14:30:00,2026-09-30,2:30 PM,Junior,Marley Van Domelan,False,False
+1401,2026-09-30 14:45:00,2026-09-30,2:45 PM,Junior,Marley Van Domelan,False,False
+1401,2026-10-01 13:45:00,2026-10-01,1:45 PM,Senior,Nate Dreyfus,False,False
+1401,2026-10-01 14:00:00,2026-10-01,2:00 PM,Senior,Nate Dreyfus,False,False
+1401,2026-10-01 14:15:00,2026-10-01,2:15 PM,Senior,Nate Dreyfus,False,False
+1401,2026-10-01 14:30:00,2026-10-01,2:30 PM,Senior,Nate Dreyfus,False,False
+1401,2026-10-01 14:45:00,2026-10-01,2:45 PM,Senior,Nate Dreyfus,False,False
+1401,2026-10-01 15:00:00,2026-10-01,3:00 PM,Senior,Nate Dreyfus,False,False
+1401,2026-10-02 11:45:00,2026-10-02,11:45 AM,Junior,Cooper Atkinson,False,False
+1401,2026-10-02 12:00:00,2026-10-02,12:00 PM,Junior,Cooper Atkinson,False,False
+1401,2026-10-02 14:30:00,2026-10-02,2:30 PM,Senior,Nate Dreyfus,False,False
+1401,2026-10-02 14:45:00,2026-10-02,2:45 PM,Senior,Nate Dreyfus,False,False
+1401,2026-10-02 15:00:00,2026-10-02,3:00 PM,Senior,Nate Dreyfus,False,False
+1401,2026-10-02 15:15:00,2026-10-02,3:15 PM,Senior,Nate Dreyfus,False,False
+1401,2026-10-02 15:30:00,2026-10-02,3:30 PM,Senior,Nate Dreyfus,False,False
+1401,2026-10-02 15:45:00,2026-10-02,3:45 PM,Senior,Nate Dreyfus,False,False
+1401,2026-10-02 16:00:00,2026-10-02,4:00 PM,Senior,Nate Dreyfus,False,False
+1401,2026-10-04 14:30:00,2026-10-04,2:30 PM,Junior,Marley Van Domelan,False,False
+1401,2026-10-04 14:45:00,2026-10-04,2:45 PM,Junior,Marley Van Domelan,False,False
+1401,2026-10-04 15:00:00,2026-10-04,3:00 PM,Junior,Marley Van Domelan,False,False
+1401,2026-10-04 15:15:00,2026-10-04,3:15 PM,Junior,Marley Van Domelan,False,False
+1401,2026-10-04 15:30:00,2026-10-04,3:30 PM,Junior,Marley Van Domelan,False,False
+1401,2026-10-04 15:45:00,2026-10-04,3:45 PM,Senior,Alex Seitler,False,False
+1401,2026-10-04 16:00:00,2026-10-04,4:00 PM,Senior,Alex Seitler,False,False
+1401,2026-10-04 16:15:00,2026-10-04,4:15 PM,Senior,Alex Seitler,False,False
+1401,2026-10-04 16:30:00,2026-10-04,4:30 PM,Senior,Alex Seitler,False,False
 1407,2025-12-08 10:00:00,2025-12-08,10:00 AM,Junior,Cooper Atkinson,False,False
 1407,2025-12-08 10:15:00,2025-12-08,10:15 AM,Junior,Cooper Atkinson,False,False
 1407,2025-12-08 10:30:00,2025-12-08,10:30 AM,Junior,Cooper Atkinson,False,False
@@ -4096,6 +4174,67 @@ room,datetime,day,time,grade,person,is_lesson,is_other
 1407,2026-09-25 15:15:00,2026-09-25,3:15 PM,DMA,Anna Desfor,False,False
 1407,2026-09-25 15:30:00,2026-09-25,3:30 PM,DMA,Anna Desfor,False,False
 1407,2026-09-25 15:45:00,2026-09-25,3:45 PM,DMA,Anna Desfor,False,False
+1407,2026-09-28 12:00:00,2026-09-28,12:00 PM,DMA,Jack Johnson,False,False
+1407,2026-09-28 12:15:00,2026-09-28,12:15 PM,DMA,Jack Johnson,False,False
+1407,2026-09-28 12:30:00,2026-09-28,12:30 PM,DMA,Jack Johnson,False,False
+1407,2026-09-28 12:45:00,2026-09-28,12:45 PM,DMA,Jack Johnson,False,False
+1407,2026-09-28 13:00:00,2026-09-28,1:00 PM,DMA,Jack Johnson,False,False
+1407,2026-09-28 13:15:00,2026-09-28,1:15 PM,DMA,Jack Johnson,False,False
+1407,2026-09-28 13:30:00,2026-09-28,1:30 PM,DMA,Jack Johnson,False,False
+1407,2026-09-28 13:45:00,2026-09-28,1:45 PM,DMA,Jack Johnson,False,False
+1407,2026-09-28 14:30:00,2026-09-28,2:30 PM,Senior,Kendal Schreiber,False,False
+1407,2026-09-28 14:45:00,2026-09-28,2:45 PM,Senior,Kendal Schreiber,False,False
+1407,2026-09-28 15:00:00,2026-09-28,3:00 PM,Senior,Kendal Schreiber,False,False
+1407,2026-09-28 15:15:00,2026-09-28,3:15 PM,Senior,Kendal Schreiber,False,False
+1407,2026-09-28 15:30:00,2026-09-28,3:30 PM,Senior,Kendal Schreiber,False,False
+1407,2026-09-28 15:45:00,2026-09-28,3:45 PM,Senior,Kendal Schreiber,False,False
+1407,2026-09-28 17:00:00,2026-09-28,5:00 PM,Junior,Aaron Dieter,False,False
+1407,2026-09-28 17:15:00,2026-09-28,5:15 PM,Junior,Aaron Dieter,False,False
+1407,2026-09-28 17:30:00,2026-09-28,5:30 PM,Senior,Ellis Goeden,False,False
+1407,2026-09-28 17:45:00,2026-09-28,5:45 PM,Senior,Ellis Goeden,False,False
+1407,2026-09-28 18:00:00,2026-09-28,6:00 PM,Senior,Ellis Goeden,False,False
+1407,2026-09-28 18:15:00,2026-09-28,6:15 PM,Senior,Ellis Goeden,False,False
+1407,2026-09-28 18:30:00,2026-09-28,6:30 PM,Senior,Ellis Goeden,False,False
+1407,2026-09-28 18:45:00,2026-09-28,6:45 PM,Senior,Ellis Goeden,False,False
+1407,2026-09-28 20:15:00,2026-09-28,8:15 PM,Sophomore,Nick Ruplinger,False,False
+1407,2026-09-28 20:30:00,2026-09-28,8:30 PM,Sophomore,Nick Ruplinger,False,False
+1407,2026-09-28 20:45:00,2026-09-28,8:45 PM,Sophomore,Nick Ruplinger,False,False
+1407,2026-09-29 09:45:00,2026-09-29,9:45 AM,Senior,Ellis Goeden,False,False
+1407,2026-09-29 10:00:00,2026-09-29,10:00 AM,Senior,Ellis Goeden,False,False
+1407,2026-09-29 10:15:00,2026-09-29,10:15 AM,Senior,Ellis Goeden,False,False
+1407,2026-09-29 10:30:00,2026-09-29,10:30 AM,Senior,Ellis Goeden,False,False
+1407,2026-09-29 14:30:00,2026-09-29,2:30 PM,Junior,Aaron Dieter,False,False
+1407,2026-09-29 14:45:00,2026-09-29,2:45 PM,Junior,Aaron Dieter,False,False
+1407,2026-09-29 15:00:00,2026-09-29,3:00 PM,Junior,Aaron Dieter,False,False
+1407,2026-09-29 15:15:00,2026-09-29,3:15 PM,Junior,Aaron Dieter,False,False
+1407,2026-09-30 09:45:00,2026-09-30,9:45 AM,Senior,Ellis Goeden,False,False
+1407,2026-09-30 10:00:00,2026-09-30,10:00 AM,Senior,Ellis Goeden,False,False
+1407,2026-09-30 10:15:00,2026-09-30,10:15 AM,Senior,Ellis Goeden,False,False
+1407,2026-09-30 10:30:00,2026-09-30,10:30 AM,Senior,Ellis Goeden,False,False
+1407,2026-09-30 15:00:00,2026-09-30,3:00 PM,DMA,Anna Desfor,False,False
+1407,2026-09-30 15:15:00,2026-09-30,3:15 PM,DMA,Anna Desfor,False,False
+1407,2026-09-30 15:30:00,2026-09-30,3:30 PM,DMA,Anna Desfor,False,False
+1407,2026-09-30 15:45:00,2026-09-30,3:45 PM,DMA,Anna Desfor,False,False
+1407,2026-09-30 16:45:00,2026-09-30,4:45 PM,Senior,Kendal Schreiber,False,False
+1407,2026-09-30 17:00:00,2026-09-30,5:00 PM,Senior,Kendal Schreiber,False,False
+1407,2026-10-01 08:00:00,2026-10-01,8:00 AM,Junior,Aaron Dieter,False,False
+1407,2026-10-01 08:15:00,2026-10-01,8:15 AM,Junior,Aaron Dieter,False,False
+1407,2026-10-01 12:45:00,2026-10-01,12:45 PM,Junior,Marley Van Domelan,False,False
+1407,2026-10-01 13:00:00,2026-10-01,1:00 PM,Junior,Marley Van Domelan,False,False
+1407,2026-10-01 13:15:00,2026-10-01,1:15 PM,Junior,Marley Van Domelan,False,False
+1407,2026-10-01 13:30:00,2026-10-01,1:30 PM,Junior,Marley Van Domelan,False,False
+1407,2026-10-01 13:45:00,2026-10-01,1:45 PM,Junior,Marley Van Domelan,False,False
+1407,2026-10-01 14:00:00,2026-10-01,2:00 PM,Junior,Marley Van Domelan,False,False
+1407,2026-10-01 14:15:00,2026-10-01,2:15 PM,Junior,Marley Van Domelan,False,False
+1407,2026-10-01 14:30:00,2026-10-01,2:30 PM,Junior,Aaron Dieter,False,False
+1407,2026-10-01 14:45:00,2026-10-01,2:45 PM,Junior,Aaron Dieter,False,False
+1407,2026-10-01 15:00:00,2026-10-01,3:00 PM,Junior,Aaron Dieter,False,False
+1407,2026-10-01 15:15:00,2026-10-01,3:15 PM,Junior,Aaron Dieter,False,False
+1407,2026-10-02 11:00:00,2026-10-02,11:00 AM,Senior,Ravlin Frantz,False,False
+1407,2026-10-02 11:15:00,2026-10-02,11:15 AM,Senior,Ravlin Frantz,False,False
+1407,2026-10-02 11:30:00,2026-10-02,11:30 AM,Senior,Ravlin Frantz,False,False
+1407,2026-10-02 11:45:00,2026-10-02,11:45 AM,Senior,Ravlin Frantz,False,False
+1407,2026-10-04 16:30:00,2026-10-04,4:30 PM,Junior,Aaron Dieter,False,False
 1409,2025-12-08 07:00:00,2025-12-08,7:00 AM,Unknown,VIBE OUT,False,True
 1409,2025-12-08 07:15:00,2025-12-08,7:15 AM,Unknown,LESSONS,True,True
 1409,2025-12-08 07:30:00,2025-12-08,7:30 AM,Unknown,LESSONS,True,True
@@ -8971,6 +9110,209 @@ room,datetime,day,time,grade,person,is_lesson,is_other
 1409,2026-09-27 22:00:00,2026-09-27,10:00 PM,Freshman,John Griffin,False,False
 1409,2026-09-27 22:15:00,2026-09-27,10:15 PM,Freshman,John Griffin,False,False
 1409,2026-09-27 22:30:00,2026-09-27,10:30 PM,Freshman,John Griffin,False,False
+1409,2026-09-28 07:45:00,2026-09-28,7:45 AM,Unknown,LESSONS,True,True
+1409,2026-09-28 08:00:00,2026-09-28,8:00 AM,Unknown,LESSONS,True,True
+1409,2026-09-28 08:15:00,2026-09-28,8:15 AM,Unknown,LESSONS,True,True
+1409,2026-09-28 08:30:00,2026-09-28,8:30 AM,Unknown,LESSONS,True,True
+1409,2026-09-28 08:45:00,2026-09-28,8:45 AM,Unknown,LESSONS,True,True
+1409,2026-09-28 09:00:00,2026-09-28,9:00 AM,Unknown,LESSONS,True,True
+1409,2026-09-28 09:15:00,2026-09-28,9:15 AM,Unknown,LESSONS,True,True
+1409,2026-09-28 09:30:00,2026-09-28,9:30 AM,Unknown,LESSONS,True,True
+1409,2026-09-28 09:45:00,2026-09-28,9:45 AM,Unknown,LESSONS,True,True
+1409,2026-09-28 10:00:00,2026-09-28,10:00 AM,Unknown,LESSONS,True,True
+1409,2026-09-28 10:15:00,2026-09-28,10:15 AM,Unknown,LESSONS,True,True
+1409,2026-09-28 10:30:00,2026-09-28,10:30 AM,Unknown,LESSONS,True,True
+1409,2026-09-28 10:45:00,2026-09-28,10:45 AM,Unknown,LESSONS,True,True
+1409,2026-09-28 13:30:00,2026-09-28,1:30 PM,Freshman,John Griffin,False,False
+1409,2026-09-28 13:45:00,2026-09-28,1:45 PM,Freshman,John Griffin,False,False
+1409,2026-09-28 14:00:00,2026-09-28,2:00 PM,Freshman,John Griffin,False,False
+1409,2026-09-28 16:00:00,2026-09-28,4:00 PM,Junior,Aaron Dieter,False,False
+1409,2026-09-28 16:15:00,2026-09-28,4:15 PM,Junior,Aaron Dieter,False,False
+1409,2026-09-28 16:30:00,2026-09-28,4:30 PM,Junior,Aaron Dieter,False,False
+1409,2026-09-28 16:45:00,2026-09-28,4:45 PM,Junior,Aaron Dieter,False,False
+1409,2026-09-28 17:00:00,2026-09-28,5:00 PM,Freshman,Adam Hein,False,False
+1409,2026-09-28 17:15:00,2026-09-28,5:15 PM,Freshman,Adam Hein,False,False
+1409,2026-09-28 17:30:00,2026-09-28,5:30 PM,Freshman,Adam Hein,False,False
+1409,2026-09-28 17:45:00,2026-09-28,5:45 PM,Freshman,Adam Hein,False,False
+1409,2026-09-28 18:00:00,2026-09-28,6:00 PM,Freshman,Adam Hein,False,False
+1409,2026-09-28 18:15:00,2026-09-28,6:15 PM,Freshman,Adam Hein,False,False
+1409,2026-09-28 18:30:00,2026-09-28,6:30 PM,Freshman,Adam Hein,False,False
+1409,2026-09-28 18:45:00,2026-09-28,6:45 PM,Freshman,Adam Hein,False,False
+1409,2026-09-28 19:30:00,2026-09-28,7:30 PM,Junior,Eleanor Peska,False,False
+1409,2026-09-28 19:45:00,2026-09-28,7:45 PM,Junior,Eleanor Peska,False,False
+1409,2026-09-28 20:00:00,2026-09-28,8:00 PM,Junior,Eleanor Peska,False,False
+1409,2026-09-28 20:15:00,2026-09-28,8:15 PM,Junior,Eleanor Peska,False,False
+1409,2026-09-28 20:30:00,2026-09-28,8:30 PM,Junior,Eleanor Peska,False,False
+1409,2026-09-28 20:45:00,2026-09-28,8:45 PM,Junior,Eleanor Peska,False,False
+1409,2026-09-28 21:00:00,2026-09-28,9:00 PM,Junior,Eleanor Peska,False,False
+1409,2026-09-28 21:15:00,2026-09-28,9:15 PM,Junior,Eleanor Peska,False,False
+1409,2026-09-29 07:00:00,2026-09-29,7:00 AM,Junior,Eleanor Peska,False,False
+1409,2026-09-29 07:15:00,2026-09-29,7:15 AM,Junior,Eleanor Peska,False,False
+1409,2026-09-29 07:30:00,2026-09-29,7:30 AM,Junior,Eleanor Peska,False,False
+1409,2026-09-29 09:00:00,2026-09-29,9:00 AM,Unknown,LESSONS,True,True
+1409,2026-09-29 09:15:00,2026-09-29,9:15 AM,Unknown,LESSONS,True,True
+1409,2026-09-29 09:30:00,2026-09-29,9:30 AM,Unknown,LESSONS,True,True
+1409,2026-09-29 09:45:00,2026-09-29,9:45 AM,Unknown,LESSONS,True,True
+1409,2026-09-29 10:00:00,2026-09-29,10:00 AM,Unknown,LESSONS,True,True
+1409,2026-09-29 10:15:00,2026-09-29,10:15 AM,Unknown,LESSONS,True,True
+1409,2026-09-29 10:30:00,2026-09-29,10:30 AM,Unknown,LESSONS,True,True
+1409,2026-09-29 10:45:00,2026-09-29,10:45 AM,Unknown,LESSONS,True,True
+1409,2026-09-29 11:00:00,2026-09-29,11:00 AM,Unknown,Marc Wagnon,False,True
+1409,2026-09-29 11:15:00,2026-09-29,11:15 AM,Unknown,Marc Wagnon,False,True
+1409,2026-09-29 11:30:00,2026-09-29,11:30 AM,Unknown,Marc Wagnon,False,True
+1409,2026-09-29 11:45:00,2026-09-29,11:45 AM,Unknown,Marc Wagnon,False,True
+1409,2026-09-29 13:00:00,2026-09-29,1:00 PM,Unknown,LESSONS,True,True
+1409,2026-09-29 13:15:00,2026-09-29,1:15 PM,Unknown,LESSONS,True,True
+1409,2026-09-29 13:30:00,2026-09-29,1:30 PM,Unknown,LESSONS,True,True
+1409,2026-09-29 13:45:00,2026-09-29,1:45 PM,Unknown,LESSONS,True,True
+1409,2026-09-29 14:00:00,2026-09-29,2:00 PM,Unknown,LESSONS,True,True
+1409,2026-09-29 14:15:00,2026-09-29,2:15 PM,Unknown,LESSONS,True,True
+1409,2026-09-29 15:30:00,2026-09-29,3:30 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-09-29 15:45:00,2026-09-29,3:45 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-09-29 16:00:00,2026-09-29,4:00 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-09-29 16:15:00,2026-09-29,4:15 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-09-29 16:30:00,2026-09-29,4:30 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-09-29 16:45:00,2026-09-29,4:45 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-09-29 17:00:00,2026-09-29,5:00 PM,Senior,Alex Seitler,False,False
+1409,2026-09-29 17:15:00,2026-09-29,5:15 PM,Senior,Alex Seitler,False,False
+1409,2026-09-29 17:30:00,2026-09-29,5:30 PM,Senior,Alex Seitler,False,False
+1409,2026-09-29 17:45:00,2026-09-29,5:45 PM,Senior,Alex Seitler,False,False
+1409,2026-09-29 18:00:00,2026-09-29,6:00 PM,Senior,Alex Seitler,False,False
+1409,2026-09-29 18:15:00,2026-09-29,6:15 PM,Senior,Alex Seitler,False,False
+1409,2026-09-29 18:30:00,2026-09-29,6:30 PM,Junior,Ryan Gomez,False,False
+1409,2026-09-29 18:45:00,2026-09-29,6:45 PM,Junior,Ryan Gomez,False,False
+1409,2026-09-29 19:00:00,2026-09-29,7:00 PM,Junior,Ryan Gomez,False,False
+1409,2026-09-29 19:15:00,2026-09-29,7:15 PM,Junior,Ryan Gomez,False,False
+1409,2026-09-29 19:30:00,2026-09-29,7:30 PM,Junior,Ryan Gomez,False,False
+1409,2026-09-29 19:45:00,2026-09-29,7:45 PM,Junior,Ryan Gomez,False,False
+1409,2026-09-29 20:00:00,2026-09-29,8:00 PM,Freshman,John Griffin,False,False
+1409,2026-09-29 20:15:00,2026-09-29,8:15 PM,Freshman,John Griffin,False,False
+1409,2026-09-29 20:30:00,2026-09-29,8:30 PM,Freshman,John Griffin,False,False
+1409,2026-09-29 20:45:00,2026-09-29,8:45 PM,Freshman,John Griffin,False,False
+1409,2026-09-29 21:00:00,2026-09-29,9:00 PM,Freshman,John Griffin,False,False
+1409,2026-09-29 21:15:00,2026-09-29,9:15 PM,Freshman,John Griffin,False,False
+1409,2026-09-30 07:45:00,2026-09-30,7:45 AM,Unknown,LESSONS,True,True
+1409,2026-09-30 08:00:00,2026-09-30,8:00 AM,Unknown,LESSONS,True,True
+1409,2026-09-30 08:15:00,2026-09-30,8:15 AM,Unknown,LESSONS,True,True
+1409,2026-09-30 08:30:00,2026-09-30,8:30 AM,Unknown,LESSONS,True,True
+1409,2026-09-30 08:45:00,2026-09-30,8:45 AM,Unknown,LESSONS,True,True
+1409,2026-09-30 09:00:00,2026-09-30,9:00 AM,Unknown,LESSONS,True,True
+1409,2026-09-30 09:15:00,2026-09-30,9:15 AM,Unknown,LESSONS,True,True
+1409,2026-09-30 09:30:00,2026-09-30,9:30 AM,Unknown,LESSONS,True,True
+1409,2026-09-30 09:45:00,2026-09-30,9:45 AM,Unknown,LESSONS,True,True
+1409,2026-09-30 10:00:00,2026-09-30,10:00 AM,Unknown,LESSONS,True,True
+1409,2026-09-30 10:15:00,2026-09-30,10:15 AM,Unknown,LESSONS,True,True
+1409,2026-09-30 10:30:00,2026-09-30,10:30 AM,Unknown,LESSONS,True,True
+1409,2026-09-30 10:45:00,2026-09-30,10:45 AM,Unknown,LESSONS,True,True
+1409,2026-09-30 12:00:00,2026-09-30,12:00 PM,Unknown,Marc Wagnon,False,True
+1409,2026-09-30 12:15:00,2026-09-30,12:15 PM,Unknown,Marc Wagnon,False,True
+1409,2026-09-30 12:30:00,2026-09-30,12:30 PM,Unknown,Marc Wagnon,False,True
+1409,2026-09-30 12:45:00,2026-09-30,12:45 PM,Unknown,Marc Wagnon,False,True
+1409,2026-09-30 13:00:00,2026-09-30,1:00 PM,Unknown,Marc Wagnon,False,True
+1409,2026-09-30 13:15:00,2026-09-30,1:15 PM,Unknown,Marc Wagnon,False,True
+1409,2026-09-30 13:30:00,2026-09-30,1:30 PM,Unknown,Marc Wagnon,False,True
+1409,2026-09-30 13:45:00,2026-09-30,1:45 PM,Unknown,Marc Wagnon,False,True
+1409,2026-09-30 14:30:00,2026-09-30,2:30 PM,Junior,Marley Van Domelan,False,False
+1409,2026-09-30 14:45:00,2026-09-30,2:45 PM,Junior,Marley Van Domelan,False,False
+1409,2026-09-30 16:00:00,2026-09-30,4:00 PM,Unknown,Reich,False,True
+1409,2026-09-30 16:15:00,2026-09-30,4:15 PM,Unknown,Reich,False,True
+1409,2026-09-30 17:45:00,2026-09-30,5:45 PM,Senior,Alex Seitler,False,False
+1409,2026-09-30 18:00:00,2026-09-30,6:00 PM,Senior,Alex Seitler,False,False
+1409,2026-09-30 18:15:00,2026-09-30,6:15 PM,Senior,Alex Seitler,False,False
+1409,2026-09-30 18:30:00,2026-09-30,6:30 PM,Senior,Alex Seitler,False,False
+1409,2026-09-30 21:00:00,2026-09-30,9:00 PM,Junior,Ryan Gomez,False,False
+1409,2026-09-30 21:15:00,2026-09-30,9:15 PM,Junior,Ryan Gomez,False,False
+1409,2026-09-30 21:30:00,2026-09-30,9:30 PM,Junior,Ryan Gomez,False,False
+1409,2026-09-30 21:45:00,2026-09-30,9:45 PM,Junior,Ryan Gomez,False,False
+1409,2026-09-30 22:00:00,2026-09-30,10:00 PM,Junior,Ryan Gomez,False,False
+1409,2026-09-30 22:15:00,2026-09-30,10:15 PM,Junior,Ryan Gomez,False,False
+1409,2026-09-30 22:30:00,2026-09-30,10:30 PM,Junior,Ryan Gomez,False,False
+1409,2026-10-01 08:00:00,2026-10-01,8:00 AM,Junior,Ryan Gomez,False,False
+1409,2026-10-01 08:15:00,2026-10-01,8:15 AM,Junior,Ryan Gomez,False,False
+1409,2026-10-01 08:30:00,2026-10-01,8:30 AM,Junior,Ryan Gomez,False,False
+1409,2026-10-01 08:45:00,2026-10-01,8:45 AM,Junior,Ryan Gomez,False,False
+1409,2026-10-01 09:00:00,2026-10-01,9:00 AM,Unknown,Aaron lesson,False,True
+1409,2026-10-01 09:15:00,2026-10-01,9:15 AM,Unknown,Aaron lesson,False,True
+1409,2026-10-01 09:30:00,2026-10-01,9:30 AM,Unknown,Aaron lesson,False,True
+1409,2026-10-01 09:45:00,2026-10-01,9:45 AM,Unknown,Aaron lesson,False,True
+1409,2026-10-01 11:00:00,2026-10-01,11:00 AM,Unknown,Marc Wagnon,False,True
+1409,2026-10-01 11:15:00,2026-10-01,11:15 AM,Unknown,Marc Wagnon,False,True
+1409,2026-10-01 11:30:00,2026-10-01,11:30 AM,Unknown,Marc Wagnon,False,True
+1409,2026-10-01 11:45:00,2026-10-01,11:45 AM,Unknown,Marc Wagnon,False,True
+1409,2026-10-01 12:00:00,2026-10-01,12:00 PM,Unknown,Marc Wagnon,False,True
+1409,2026-10-01 12:15:00,2026-10-01,12:15 PM,Unknown,Marc Wagnon,False,True
+1409,2026-10-01 12:30:00,2026-10-01,12:30 PM,Unknown,Marc Wagnon,False,True
+1409,2026-10-01 12:45:00,2026-10-01,12:45 PM,Unknown,Marc Wagnon,False,True
+1409,2026-10-01 13:00:00,2026-10-01,1:00 PM,Junior,Cooper Atkinson,False,False
+1409,2026-10-01 13:15:00,2026-10-01,1:15 PM,Junior,Cooper Atkinson,False,False
+1409,2026-10-01 22:00:00,2026-10-01,10:00 PM,Freshman,John Griffin,False,False
+1409,2026-10-01 22:15:00,2026-10-01,10:15 PM,Freshman,John Griffin,False,False
+1409,2026-10-01 22:30:00,2026-10-01,10:30 PM,Freshman,John Griffin,False,False
+1409,2026-10-01 22:45:00,2026-10-01,10:45 PM,Freshman,John Griffin,False,False
+1409,2026-10-02 09:45:00,2026-10-02,9:45 AM,Unknown,LESSONS,True,True
+1409,2026-10-02 10:00:00,2026-10-02,10:00 AM,Unknown,LESSONS,True,True
+1409,2026-10-02 10:15:00,2026-10-02,10:15 AM,Unknown,LESSONS,True,True
+1409,2026-10-02 10:30:00,2026-10-02,10:30 AM,Unknown,LESSONS,True,True
+1409,2026-10-02 10:45:00,2026-10-02,10:45 AM,Unknown,LESSONS,True,True
+1409,2026-10-02 11:00:00,2026-10-02,11:00 AM,Junior,Aaron Dieter,False,False
+1409,2026-10-02 11:15:00,2026-10-02,11:15 AM,Junior,Aaron Dieter,False,False
+1409,2026-10-02 14:45:00,2026-10-02,2:45 PM,Junior,Eleanor Peska,False,False
+1409,2026-10-02 15:00:00,2026-10-02,3:00 PM,Junior,Eleanor Peska,False,False
+1409,2026-10-02 15:15:00,2026-10-02,3:15 PM,Junior,Eleanor Peska,False,False
+1409,2026-10-02 15:30:00,2026-10-02,3:30 PM,Junior,Eleanor Peska,False,False
+1409,2026-10-02 18:30:00,2026-10-02,6:30 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-10-02 18:45:00,2026-10-02,6:45 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-10-02 19:00:00,2026-10-02,7:00 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-10-02 19:15:00,2026-10-02,7:15 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-10-02 19:30:00,2026-10-02,7:30 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-10-02 19:45:00,2026-10-02,7:45 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-10-02 20:30:00,2026-10-02,8:30 PM,Freshman,John Griffin,False,False
+1409,2026-10-02 20:45:00,2026-10-02,8:45 PM,Freshman,John Griffin,False,False
+1409,2026-10-02 21:00:00,2026-10-02,9:00 PM,Freshman,John Griffin,False,False
+1409,2026-10-02 21:15:00,2026-10-02,9:15 PM,Freshman,John Griffin,False,False
+1409,2026-10-02 21:30:00,2026-10-02,9:30 PM,Freshman,John Griffin,False,False
+1409,2026-10-02 21:45:00,2026-10-02,9:45 PM,Freshman,John Griffin,False,False
+1409,2026-10-03 13:30:00,2026-10-03,1:30 PM,Senior,Alex Seitler,False,False
+1409,2026-10-03 13:45:00,2026-10-03,1:45 PM,Senior,Alex Seitler,False,False
+1409,2026-10-03 14:00:00,2026-10-03,2:00 PM,Senior,Alex Seitler,False,False
+1409,2026-10-03 14:15:00,2026-10-03,2:15 PM,Senior,Alex Seitler,False,False
+1409,2026-10-03 14:30:00,2026-10-03,2:30 PM,Senior,Alex Seitler,False,False
+1409,2026-10-03 14:45:00,2026-10-03,2:45 PM,Senior,Alex Seitler,False,False
+1409,2026-10-03 15:00:00,2026-10-03,3:00 PM,Senior,Alex Seitler,False,False
+1409,2026-10-03 15:15:00,2026-10-03,3:15 PM,Senior,Alex Seitler,False,False
+1409,2026-10-03 19:00:00,2026-10-03,7:00 PM,Freshman,John Griffin,False,False
+1409,2026-10-03 19:15:00,2026-10-03,7:15 PM,Freshman,John Griffin,False,False
+1409,2026-10-03 19:30:00,2026-10-03,7:30 PM,Freshman,John Griffin,False,False
+1409,2026-10-03 19:45:00,2026-10-03,7:45 PM,Freshman,John Griffin,False,False
+1409,2026-10-03 20:00:00,2026-10-03,8:00 PM,Freshman,John Griffin,False,False
+1409,2026-10-03 20:15:00,2026-10-03,8:15 PM,Freshman,John Griffin,False,False
+1409,2026-10-03 20:30:00,2026-10-03,8:30 PM,Freshman,John Griffin,False,False
+1409,2026-10-03 20:45:00,2026-10-03,8:45 PM,Freshman,John Griffin,False,False
+1409,2026-10-04 11:00:00,2026-10-04,11:00 AM,Freshman,John Griffin,False,False
+1409,2026-10-04 11:15:00,2026-10-04,11:15 AM,Freshman,John Griffin,False,False
+1409,2026-10-04 11:30:00,2026-10-04,11:30 AM,Freshman,John Griffin,False,False
+1409,2026-10-04 11:45:00,2026-10-04,11:45 AM,Freshman,John Griffin,False,False
+1409,2026-10-04 12:00:00,2026-10-04,12:00 PM,Freshman,John Griffin,False,False
+1409,2026-10-04 12:15:00,2026-10-04,12:15 PM,Freshman,John Griffin,False,False
+1409,2026-10-04 12:30:00,2026-10-04,12:30 PM,Freshman,John Griffin,False,False
+1409,2026-10-04 12:45:00,2026-10-04,12:45 PM,Freshman,John Griffin,False,False
+1409,2026-10-04 14:15:00,2026-10-04,2:15 PM,Junior,Aaron Dieter,False,False
+1409,2026-10-04 14:30:00,2026-10-04,2:30 PM,Junior,Aaron Dieter,False,False
+1409,2026-10-04 14:45:00,2026-10-04,2:45 PM,Junior,Aaron Dieter,False,False
+1409,2026-10-04 15:00:00,2026-10-04,3:00 PM,Junior,Aaron Dieter,False,False
+1409,2026-10-04 15:15:00,2026-10-04,3:15 PM,Junior,Aaron Dieter,False,False
+1409,2026-10-04 15:30:00,2026-10-04,3:30 PM,Junior,Aaron Dieter,False,False
+1409,2026-10-04 15:45:00,2026-10-04,3:45 PM,Junior,Aaron Dieter,False,False
+1409,2026-10-04 16:00:00,2026-10-04,4:00 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-10-04 16:15:00,2026-10-04,4:15 PM,Sophomore,Nick Ruplinger,False,False
+1409,2026-10-04 19:30:00,2026-10-04,7:30 PM,Unknown,Xylo + Vibes out,False,True
+1409,2026-10-04 19:45:00,2026-10-04,7:45 PM,Unknown,Xylo + Vibes out,False,True
+1409,2026-10-04 20:00:00,2026-10-04,8:00 PM,Unknown,Xylo + Vibes out,False,True
+1409,2026-10-04 20:15:00,2026-10-04,8:15 PM,Unknown,Xylo + Vibes out,False,True
+1409,2026-10-04 21:00:00,2026-10-04,9:00 PM,Freshman,John Griffin,False,False
+1409,2026-10-04 21:15:00,2026-10-04,9:15 PM,Freshman,John Griffin,False,False
+1409,2026-10-04 21:30:00,2026-10-04,9:30 PM,Freshman,John Griffin,False,False
+1409,2026-10-04 21:45:00,2026-10-04,9:45 PM,Freshman,John Griffin,False,False
 1413,2025-12-08 10:00:00,2025-12-08,10:00 AM,Sophomore,Aidan Lishner,False,False
 1413,2025-12-08 10:15:00,2025-12-08,10:15 AM,Sophomore,Aidan Lishner,False,False
 1413,2025-12-08 10:30:00,2025-12-08,10:30 AM,Sophomore,Aidan Lishner,False,False
@@ -11724,6 +12066,165 @@ room,datetime,day,time,grade,person,is_lesson,is_other
 1413,2026-09-27 16:45:00,2026-09-27,4:45 PM,Sophomore,Pete Navratil,False,False
 1413,2026-09-27 20:30:00,2026-09-27,8:30 PM,Freshman,John Griffin,False,False
 1413,2026-09-27 20:45:00,2026-09-27,8:45 PM,Freshman,John Griffin,False,False
+1413,2026-09-28 08:00:00,2026-09-28,8:00 AM,DMA,Jaime Cardenas,False,False
+1413,2026-09-28 08:15:00,2026-09-28,8:15 AM,DMA,Jaime Cardenas,False,False
+1413,2026-09-28 08:30:00,2026-09-28,8:30 AM,DMA,Jaime Cardenas,False,False
+1413,2026-09-28 08:45:00,2026-09-28,8:45 AM,DMA,Jaime Cardenas,False,False
+1413,2026-09-28 09:00:00,2026-09-28,9:00 AM,Senior,Kendal Schreiber,False,False
+1413,2026-09-28 09:15:00,2026-09-28,9:15 AM,Senior,Kendal Schreiber,False,False
+1413,2026-09-28 09:30:00,2026-09-28,9:30 AM,Senior,Kendal Schreiber,False,False
+1413,2026-09-28 09:45:00,2026-09-28,9:45 AM,Senior,Kendal Schreiber,False,False
+1413,2026-09-28 10:00:00,2026-09-28,10:00 AM,Senior,Kendal Schreiber,False,False
+1413,2026-09-28 10:15:00,2026-09-28,10:15 AM,Senior,Kendal Schreiber,False,False
+1413,2026-09-28 11:00:00,2026-09-28,11:00 AM,DMA,Jack Johnson,False,False
+1413,2026-09-28 11:15:00,2026-09-28,11:15 AM,DMA,Jack Johnson,False,False
+1413,2026-09-28 11:30:00,2026-09-28,11:30 AM,DMA,Jack Johnson,False,False
+1413,2026-09-28 11:45:00,2026-09-28,11:45 AM,DMA,Jack Johnson,False,False
+1413,2026-09-28 16:45:00,2026-09-28,4:45 PM,Freshman,Adam Hein,False,False
+1413,2026-09-28 17:15:00,2026-09-28,5:15 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-09-28 17:30:00,2026-09-28,5:30 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-09-28 17:45:00,2026-09-28,5:45 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-09-28 18:00:00,2026-09-28,6:00 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-09-28 18:15:00,2026-09-28,6:15 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-09-28 18:30:00,2026-09-28,6:30 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-09-28 18:45:00,2026-09-28,6:45 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-09-28 19:00:00,2026-09-28,7:00 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-09-29 08:00:00,2026-09-29,8:00 AM,Sophomore,Nick Ruplinger,False,False
+1413,2026-09-29 08:15:00,2026-09-29,8:15 AM,Sophomore,Nick Ruplinger,False,False
+1413,2026-09-29 08:30:00,2026-09-29,8:30 AM,Sophomore,Nick Ruplinger,False,False
+1413,2026-09-29 08:45:00,2026-09-29,8:45 AM,Sophomore,Nick Ruplinger,False,False
+1413,2026-09-29 09:00:00,2026-09-29,9:00 AM,Sophomore,Nick Ruplinger,False,False
+1413,2026-09-29 09:15:00,2026-09-29,9:15 AM,Sophomore,Nick Ruplinger,False,False
+1413,2026-09-29 09:30:00,2026-09-29,9:30 AM,DMA,Jaime Cardenas,False,False
+1413,2026-09-29 09:45:00,2026-09-29,9:45 AM,DMA,Jaime Cardenas,False,False
+1413,2026-09-29 10:00:00,2026-09-29,10:00 AM,DMA,Jaime Cardenas,False,False
+1413,2026-09-29 10:15:00,2026-09-29,10:15 AM,DMA,Jaime Cardenas,False,False
+1413,2026-09-29 10:30:00,2026-09-29,10:30 AM,DMA,Jaime Cardenas,False,False
+1413,2026-09-29 10:45:00,2026-09-29,10:45 AM,DMA,Jaime Cardenas,False,False
+1413,2026-09-29 11:00:00,2026-09-29,11:00 AM,DMA,Jaime Cardenas,False,False
+1413,2026-09-29 11:15:00,2026-09-29,11:15 AM,DMA,Jaime Cardenas,False,False
+1413,2026-09-29 13:30:00,2026-09-29,1:30 PM,Senior,Kendal Schreiber,False,False
+1413,2026-09-29 13:45:00,2026-09-29,1:45 PM,Senior,Kendal Schreiber,False,False
+1413,2026-09-29 14:00:00,2026-09-29,2:00 PM,Senior,Kendal Schreiber,False,False
+1413,2026-09-29 14:15:00,2026-09-29,2:15 PM,Senior,Kendal Schreiber,False,False
+1413,2026-09-29 15:30:00,2026-09-29,3:30 PM,Senior,Alex Seitler,False,False
+1413,2026-09-29 15:45:00,2026-09-29,3:45 PM,Senior,Alex Seitler,False,False
+1413,2026-09-29 16:00:00,2026-09-29,4:00 PM,Senior,Alex Seitler,False,False
+1413,2026-09-29 16:15:00,2026-09-29,4:15 PM,Senior,Alex Seitler,False,False
+1413,2026-09-29 16:30:00,2026-09-29,4:30 PM,Senior,Alex Seitler,False,False
+1413,2026-09-29 16:45:00,2026-09-29,4:45 PM,Senior,Alex Seitler,False,False
+1413,2026-09-29 17:00:00,2026-09-29,5:00 PM,Senior,Alex Seitler,False,False
+1413,2026-09-29 17:15:00,2026-09-29,5:15 PM,Senior,Alex Seitler,False,False
+1413,2026-09-29 17:30:00,2026-09-29,5:30 PM,Freshman,Adam Hein,False,False
+1413,2026-09-29 17:45:00,2026-09-29,5:45 PM,Freshman,Adam Hein,False,False
+1413,2026-09-29 18:45:00,2026-09-29,6:45 PM,Freshman,Dante Baker,False,False
+1413,2026-09-29 19:00:00,2026-09-29,7:00 PM,Freshman,Dante Baker,False,False
+1413,2026-09-29 19:15:00,2026-09-29,7:15 PM,Freshman,Dante Baker,False,False
+1413,2026-09-30 09:15:00,2026-09-30,9:15 AM,Junior,Aaron Dieter,False,False
+1413,2026-09-30 09:30:00,2026-09-30,9:30 AM,Junior,Aaron Dieter,False,False
+1413,2026-09-30 09:45:00,2026-09-30,9:45 AM,Junior,Aaron Dieter,False,False
+1413,2026-09-30 10:00:00,2026-09-30,10:00 AM,Sophomore,Pete Navratil,False,False
+1413,2026-09-30 10:15:00,2026-09-30,10:15 AM,Sophomore,Pete Navratil,False,False
+1413,2026-09-30 10:30:00,2026-09-30,10:30 AM,Sophomore,Pete Navratil,False,False
+1413,2026-09-30 10:45:00,2026-09-30,10:45 AM,Sophomore,Pete Navratil,False,False
+1413,2026-09-30 13:00:00,2026-09-30,1:00 PM,Unknown,marimba out,False,True
+1413,2026-09-30 13:15:00,2026-09-30,1:15 PM,Unknown,marimba out,False,True
+1413,2026-09-30 13:30:00,2026-09-30,1:30 PM,Unknown,marimba out,False,True
+1413,2026-09-30 13:45:00,2026-09-30,1:45 PM,Unknown,marimba out,False,True
+1413,2026-09-30 14:00:00,2026-09-30,2:00 PM,Unknown,marimba out,False,True
+1413,2026-09-30 14:15:00,2026-09-30,2:15 PM,Unknown,marimba out,False,True
+1413,2026-09-30 14:30:00,2026-09-30,2:30 PM,Senior,Kendal Schreiber,False,False
+1413,2026-09-30 14:45:00,2026-09-30,2:45 PM,Senior,Kendal Schreiber,False,False
+1413,2026-09-30 15:00:00,2026-09-30,3:00 PM,Senior,Kendal Schreiber,False,False
+1413,2026-09-30 15:15:00,2026-09-30,3:15 PM,Senior,Kendal Schreiber,False,False
+1413,2026-09-30 15:30:00,2026-09-30,3:30 PM,Senior,Kendal Schreiber,False,False
+1413,2026-09-30 15:45:00,2026-09-30,3:45 PM,Senior,Kendal Schreiber,False,False
+1413,2026-10-01 09:45:00,2026-10-01,9:45 AM,Freshman,Colin Mortimore,False,False
+1413,2026-10-01 10:00:00,2026-10-01,10:00 AM,Freshman,Colin Mortimore,False,False
+1413,2026-10-01 10:15:00,2026-10-01,10:15 AM,Freshman,Colin Mortimore,False,False
+1413,2026-10-01 10:30:00,2026-10-01,10:30 AM,Freshman,Colin Mortimore,False,False
+1413,2026-10-01 10:45:00,2026-10-01,10:45 AM,Freshman,Colin Mortimore,False,False
+1413,2026-10-01 11:30:00,2026-10-01,11:30 AM,DMA,Jaime Cardenas,False,False
+1413,2026-10-01 11:45:00,2026-10-01,11:45 AM,DMA,Jaime Cardenas,False,False
+1413,2026-10-01 12:00:00,2026-10-01,12:00 PM,DMA,Jaime Cardenas,False,False
+1413,2026-10-01 12:15:00,2026-10-01,12:15 PM,DMA,Jaime Cardenas,False,False
+1413,2026-10-01 12:30:00,2026-10-01,12:30 PM,DMA,Jaime Cardenas,False,False
+1413,2026-10-01 12:45:00,2026-10-01,12:45 PM,DMA,Jaime Cardenas,False,False
+1413,2026-10-01 13:15:00,2026-10-01,1:15 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-10-01 13:30:00,2026-10-01,1:30 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-10-01 13:45:00,2026-10-01,1:45 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-10-01 14:00:00,2026-10-01,2:00 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-10-01 14:15:00,2026-10-01,2:15 PM,Senior,Kendal Schreiber,False,False
+1413,2026-10-01 14:30:00,2026-10-01,2:30 PM,Senior,Kendal Schreiber,False,False
+1413,2026-10-01 14:45:00,2026-10-01,2:45 PM,Senior,Kendal Schreiber,False,False
+1413,2026-10-02 10:15:00,2026-10-02,10:15 AM,Freshman,Colin Mortimore,False,False
+1413,2026-10-02 10:30:00,2026-10-02,10:30 AM,Freshman,Colin Mortimore,False,False
+1413,2026-10-02 11:00:00,2026-10-02,11:00 AM,Senior,Alex Seitler,False,False
+1413,2026-10-02 11:15:00,2026-10-02,11:15 AM,Senior,Alex Seitler,False,False
+1413,2026-10-02 11:30:00,2026-10-02,11:30 AM,Senior,Alex Seitler,False,False
+1413,2026-10-02 11:45:00,2026-10-02,11:45 AM,Senior,Alex Seitler,False,False
+1413,2026-10-02 12:00:00,2026-10-02,12:00 PM,Senior,Alex Seitler,False,False
+1413,2026-10-02 12:15:00,2026-10-02,12:15 PM,Senior,Alex Seitler,False,False
+1413,2026-10-02 12:30:00,2026-10-02,12:30 PM,Senior,Alex Seitler,False,False
+1413,2026-10-02 12:45:00,2026-10-02,12:45 PM,Senior,Alex Seitler,False,False
+1413,2026-10-02 13:15:00,2026-10-02,1:15 PM,Unknown,Marimba Out,False,True
+1413,2026-10-02 13:30:00,2026-10-02,1:30 PM,Unknown,Marimba Out,False,True
+1413,2026-10-02 13:45:00,2026-10-02,1:45 PM,Unknown,Marimba Out,False,True
+1413,2026-10-02 14:00:00,2026-10-02,2:00 PM,Unknown,Marimba Out,False,True
+1413,2026-10-02 14:15:00,2026-10-02,2:15 PM,Unknown,Marimba Out,False,True
+1413,2026-10-02 14:30:00,2026-10-02,2:30 PM,Unknown,Marimba Out,False,True
+1413,2026-10-02 14:45:00,2026-10-02,2:45 PM,Unknown,Marimba Out,False,True
+1413,2026-10-02 15:00:00,2026-10-02,3:00 PM,Unknown,Marimba Out,False,True
+1413,2026-10-02 15:15:00,2026-10-02,3:15 PM,Unknown,Marimba Out,False,True
+1413,2026-10-02 15:30:00,2026-10-02,3:30 PM,Unknown,Marimba Out,False,True
+1413,2026-10-02 15:45:00,2026-10-02,3:45 PM,Unknown,Marimba Out,False,True
+1413,2026-10-02 16:00:00,2026-10-02,4:00 PM,Unknown,Marimba Out,False,True
+1413,2026-10-02 16:15:00,2026-10-02,4:15 PM,Unknown,Marimba Out,False,True
+1413,2026-10-02 16:30:00,2026-10-02,4:30 PM,Unknown,Marimba Out,False,True
+1413,2026-10-03 16:30:00,2026-10-03,4:30 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-10-03 16:45:00,2026-10-03,4:45 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-10-03 17:00:00,2026-10-03,5:00 PM,Sophomore,Aidan Lishner,False,False
+1413,2026-10-03 17:15:00,2026-10-03,5:15 PM,Unknown,adian(,False,True
+1413,2026-10-03 20:45:00,2026-10-03,8:45 PM,Sophomore,Pete Navratil,False,False
+1413,2026-10-03 21:00:00,2026-10-03,9:00 PM,Sophomore,Pete Navratil,False,False
+1413,2026-10-03 21:15:00,2026-10-03,9:15 PM,Sophomore,Pete Navratil,False,False
+1413,2026-10-03 21:30:00,2026-10-03,9:30 PM,Sophomore,Pete Navratil,False,False
+1413,2026-10-03 21:45:00,2026-10-03,9:45 PM,Sophomore,Pete Navratil,False,False
+1413,2026-10-03 22:00:00,2026-10-03,10:00 PM,Sophomore,Pete Navratil,False,False
+1413,2026-10-03 22:15:00,2026-10-03,10:15 PM,Sophomore,Pete Navratil,False,False
+1413,2026-10-03 22:30:00,2026-10-03,10:30 PM,Sophomore,Pete Navratil,False,False
+1413,2026-10-04 11:45:00,2026-10-04,11:45 AM,Freshman,Adam Hein,False,False
+1413,2026-10-04 12:00:00,2026-10-04,12:00 PM,Freshman,Adam Hein,False,False
+1413,2026-10-04 12:15:00,2026-10-04,12:15 PM,Freshman,Adam Hein,False,False
+1413,2026-10-04 12:30:00,2026-10-04,12:30 PM,Freshman,Adam Hein,False,False
+1413,2026-10-04 12:45:00,2026-10-04,12:45 PM,Freshman,Adam Hein,False,False
+1413,2026-10-04 13:00:00,2026-10-04,1:00 PM,Freshman,Adam Hein,False,False
+1413,2026-10-04 13:15:00,2026-10-04,1:15 PM,Freshman,Adam Hein,False,False
+1413,2026-10-04 13:30:00,2026-10-04,1:30 PM,Freshman,Adam Hein,False,False
+1413,2026-10-04 16:00:00,2026-10-04,4:00 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 16:15:00,2026-10-04,4:15 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 16:30:00,2026-10-04,4:30 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 16:45:00,2026-10-04,4:45 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 17:00:00,2026-10-04,5:00 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 17:15:00,2026-10-04,5:15 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 17:30:00,2026-10-04,5:30 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 17:45:00,2026-10-04,5:45 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 18:00:00,2026-10-04,6:00 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 18:15:00,2026-10-04,6:15 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 18:30:00,2026-10-04,6:30 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 18:45:00,2026-10-04,6:45 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 19:00:00,2026-10-04,7:00 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 19:15:00,2026-10-04,7:15 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 19:30:00,2026-10-04,7:30 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 19:45:00,2026-10-04,7:45 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 20:00:00,2026-10-04,8:00 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 20:15:00,2026-10-04,8:15 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 20:30:00,2026-10-04,8:30 PM,Unknown,Marimba out,False,True
+1413,2026-10-04 21:45:00,2026-10-04,9:45 PM,Sophomore,Pete Navratil,False,False
+1413,2026-10-04 22:00:00,2026-10-04,10:00 PM,Sophomore,Pete Navratil,False,False
+1413,2026-10-04 22:15:00,2026-10-04,10:15 PM,Sophomore,Pete Navratil,False,False
+1413,2026-10-04 22:30:00,2026-10-04,10:30 PM,Sophomore,Pete Navratil,False,False
+1413,2026-10-04 22:45:00,2026-10-04,10:45 PM,Sophomore,Pete Navratil,False,False
 1414,2025-12-08 07:00:00,2025-12-08,7:00 AM,Unknown,marimba out,False,True
 1414,2025-12-08 07:15:00,2025-12-08,7:15 AM,Unknown,marimba out,False,True
 1414,2025-12-08 07:30:00,2025-12-08,7:30 AM,Unknown,marimba out,False,True
@@ -14660,6 +15161,149 @@ room,datetime,day,time,grade,person,is_lesson,is_other
 1414,2026-09-27 19:45:00,2026-09-27,7:45 PM,Junior,Aaron Dieter,False,False
 1414,2026-09-27 20:00:00,2026-09-27,8:00 PM,Junior,Aaron Dieter,False,False
 1414,2026-09-27 20:15:00,2026-09-27,8:15 PM,Junior,Aaron Dieter,False,False
+1414,2026-09-28 09:30:00,2026-09-28,9:30 AM,Junior,Aaron Dieter,False,False
+1414,2026-09-28 09:45:00,2026-09-28,9:45 AM,Junior,Aaron Dieter,False,False
+1414,2026-09-28 10:00:00,2026-09-28,10:00 AM,Junior,Aaron Dieter,False,False
+1414,2026-09-28 10:15:00,2026-09-28,10:15 AM,Junior,Aaron Dieter,False,False
+1414,2026-09-28 10:30:00,2026-09-28,10:30 AM,Junior,Aaron Dieter,False,False
+1414,2026-09-28 10:45:00,2026-09-28,10:45 AM,DMA,Jaime Cardenas,False,False
+1414,2026-09-28 11:00:00,2026-09-28,11:00 AM,DMA,Jaime Cardenas,False,False
+1414,2026-09-28 11:15:00,2026-09-28,11:15 AM,DMA,Jaime Cardenas,False,False
+1414,2026-09-28 11:30:00,2026-09-28,11:30 AM,DMA,Jaime Cardenas,False,False
+1414,2026-09-28 11:45:00,2026-09-28,11:45 AM,DMA,Jaime Cardenas,False,False
+1414,2026-09-28 12:00:00,2026-09-28,12:00 PM,DMA,Jaime Cardenas,False,False
+1414,2026-09-28 13:45:00,2026-09-28,1:45 PM,Freshman,John Griffin,False,False
+1414,2026-09-28 14:00:00,2026-09-28,2:00 PM,Freshman,John Griffin,False,False
+1414,2026-09-28 14:15:00,2026-09-28,2:15 PM,Freshman,John Griffin,False,False
+1414,2026-09-28 14:30:00,2026-09-28,2:30 PM,Junior,Annabelle Nault,False,False
+1414,2026-09-28 14:45:00,2026-09-28,2:45 PM,Junior,Annabelle Nault,False,False
+1414,2026-09-28 15:00:00,2026-09-28,3:00 PM,Junior,Annabelle Nault,False,False
+1414,2026-09-28 15:15:00,2026-09-28,3:15 PM,Junior,Annabelle Nault,False,False
+1414,2026-09-28 15:30:00,2026-09-28,3:30 PM,Junior,Annabelle Nault,False,False
+1414,2026-09-28 15:45:00,2026-09-28,3:45 PM,Junior,Annabelle Nault,False,False
+1414,2026-09-28 16:00:00,2026-09-28,4:00 PM,Junior,Annabelle Nault,False,False
+1414,2026-09-28 16:15:00,2026-09-28,4:15 PM,Junior,Annabelle Nault,False,False
+1414,2026-09-28 17:00:00,2026-09-28,5:00 PM,Senior,Kendal Schreiber,False,False
+1414,2026-09-28 17:15:00,2026-09-28,5:15 PM,Senior,Kendal Schreiber,False,False
+1414,2026-09-29 08:30:00,2026-09-29,8:30 AM,DMA,Jaime Cardenas,False,False
+1414,2026-09-29 08:45:00,2026-09-29,8:45 AM,DMA,Jaime Cardenas,False,False
+1414,2026-09-29 09:00:00,2026-09-29,9:00 AM,DMA,Jaime Cardenas,False,False
+1414,2026-09-29 09:15:00,2026-09-29,9:15 AM,DMA,Jaime Cardenas,False,False
+1414,2026-09-29 09:30:00,2026-09-29,9:30 AM,DMA,Jaime Cardenas,False,False
+1414,2026-09-29 10:30:00,2026-09-29,10:30 AM,DMA,Jack Johnson,False,False
+1414,2026-09-29 10:45:00,2026-09-29,10:45 AM,DMA,Jack Johnson,False,False
+1414,2026-09-29 11:00:00,2026-09-29,11:00 AM,DMA,Jack Johnson,False,False
+1414,2026-09-29 11:15:00,2026-09-29,11:15 AM,DMA,Jack Johnson,False,False
+1414,2026-09-29 11:30:00,2026-09-29,11:30 AM,Sophomore,Nick Ruplinger,False,False
+1414,2026-09-29 11:45:00,2026-09-29,11:45 AM,Sophomore,Nick Ruplinger,False,False
+1414,2026-09-29 12:30:00,2026-09-29,12:30 PM,Junior,Marley Van Domelan,False,False
+1414,2026-09-29 12:45:00,2026-09-29,12:45 PM,Junior,Marley Van Domelan,False,False
+1414,2026-09-29 13:00:00,2026-09-29,1:00 PM,Junior,Marley Van Domelan,False,False
+1414,2026-09-29 13:15:00,2026-09-29,1:15 PM,Junior,Marley Van Domelan,False,False
+1414,2026-09-29 13:30:00,2026-09-29,1:30 PM,Junior,Marley Van Domelan,False,False
+1414,2026-09-29 13:45:00,2026-09-29,1:45 PM,Junior,Marley Van Domelan,False,False
+1414,2026-09-29 14:00:00,2026-09-29,2:00 PM,Junior,Marley Van Domelan,False,False
+1414,2026-09-29 15:30:00,2026-09-29,3:30 PM,Freshman,Adam Hein,False,False
+1414,2026-09-29 15:45:00,2026-09-29,3:45 PM,Freshman,Adam Hein,False,False
+1414,2026-09-29 16:00:00,2026-09-29,4:00 PM,Freshman,Adam Hein,False,False
+1414,2026-09-29 16:15:00,2026-09-29,4:15 PM,Freshman,Adam Hein,False,False
+1414,2026-09-29 16:30:00,2026-09-29,4:30 PM,Freshman,Adam Hein,False,False
+1414,2026-09-29 16:45:00,2026-09-29,4:45 PM,Freshman,Adam Hein,False,False
+1414,2026-09-29 17:00:00,2026-09-29,5:00 PM,Freshman,Adam Hein,False,False
+1414,2026-09-29 17:15:00,2026-09-29,5:15 PM,Freshman,Adam Hein,False,False
+1414,2026-09-29 17:45:00,2026-09-29,5:45 PM,Junior,Annabelle Nault,False,False
+1414,2026-09-29 18:00:00,2026-09-29,6:00 PM,Junior,Annabelle Nault,False,False
+1414,2026-09-29 18:15:00,2026-09-29,6:15 PM,Junior,Annabelle Nault,False,False
+1414,2026-09-29 19:00:00,2026-09-29,7:00 PM,Freshman,Colin Mortimore,False,False
+1414,2026-09-29 19:15:00,2026-09-29,7:15 PM,Freshman,Colin Mortimore,False,False
+1414,2026-09-29 19:45:00,2026-09-29,7:45 PM,Freshman,Colin Mortimore,False,False
+1414,2026-09-29 20:00:00,2026-09-29,8:00 PM,Freshman,Colin Mortimore,False,False
+1414,2026-09-29 20:15:00,2026-09-29,8:15 PM,Freshman,Colin Mortimore,False,False
+1414,2026-09-30 08:45:00,2026-09-30,8:45 AM,Senior,Ellis Goeden,False,False
+1414,2026-09-30 09:00:00,2026-09-30,9:00 AM,Senior,Ellis Goeden,False,False
+1414,2026-09-30 09:15:00,2026-09-30,9:15 AM,Senior,Ellis Goeden,False,False
+1414,2026-09-30 09:30:00,2026-09-30,9:30 AM,Senior,Ellis Goeden,False,False
+1414,2026-09-30 09:45:00,2026-09-30,9:45 AM,Freshman,Adam Hein,False,False
+1414,2026-09-30 10:00:00,2026-09-30,10:00 AM,Freshman,Adam Hein,False,False
+1414,2026-09-30 10:15:00,2026-09-30,10:15 AM,Freshman,Adam Hein,False,False
+1414,2026-09-30 10:30:00,2026-09-30,10:30 AM,Freshman,Adam Hein,False,False
+1414,2026-09-30 13:30:00,2026-09-30,1:30 PM,Freshman,Colin Mortimore,False,False
+1414,2026-09-30 13:45:00,2026-09-30,1:45 PM,Freshman,Colin Mortimore,False,False
+1414,2026-09-30 14:00:00,2026-09-30,2:00 PM,Freshman,Colin Mortimore,False,False
+1414,2026-09-30 14:30:00,2026-09-30,2:30 PM,Freshman,Adam Hein,False,False
+1414,2026-09-30 14:45:00,2026-09-30,2:45 PM,Freshman,Adam Hein,False,False
+1414,2026-09-30 15:00:00,2026-09-30,3:00 PM,Freshman,Adam Hein,False,False
+1414,2026-09-30 15:15:00,2026-09-30,3:15 PM,Freshman,Adam Hein,False,False
+1414,2026-09-30 15:30:00,2026-09-30,3:30 PM,Freshman,Adam Hein,False,False
+1414,2026-09-30 15:45:00,2026-09-30,3:45 PM,Freshman,Adam Hein,False,False
+1414,2026-09-30 18:00:00,2026-09-30,6:00 PM,Senior,Kendal Schreiber,False,False
+1414,2026-09-30 18:15:00,2026-09-30,6:15 PM,Senior,Kendal Schreiber,False,False
+1414,2026-10-01 08:30:00,2026-10-01,8:30 AM,Junior,Aaron Dieter,False,False
+1414,2026-10-01 08:45:00,2026-10-01,8:45 AM,Junior,Aaron Dieter,False,False
+1414,2026-10-01 09:00:00,2026-10-01,9:00 AM,DMA,Jaime Cardenas,False,False
+1414,2026-10-01 09:15:00,2026-10-01,9:15 AM,DMA,Jaime Cardenas,False,False
+1414,2026-10-01 09:30:00,2026-10-01,9:30 AM,DMA,Jaime Cardenas,False,False
+1414,2026-10-01 09:45:00,2026-10-01,9:45 AM,DMA,Jaime Cardenas,False,False
+1414,2026-10-01 10:00:00,2026-10-01,10:00 AM,DMA,Jaime Cardenas,False,False
+1414,2026-10-01 10:15:00,2026-10-01,10:15 AM,DMA,Jaime Cardenas,False,False
+1414,2026-10-01 10:30:00,2026-10-01,10:30 AM,DMA,Jaime Cardenas,False,False
+1414,2026-10-01 10:45:00,2026-10-01,10:45 AM,DMA,Jaime Cardenas,False,False
+1414,2026-10-01 11:00:00,2026-10-01,11:00 AM,Sophomore,Pete Navratil,False,False
+1414,2026-10-01 11:15:00,2026-10-01,11:15 AM,Sophomore,Pete Navratil,False,False
+1414,2026-10-01 11:30:00,2026-10-01,11:30 AM,Sophomore,Pete Navratil,False,False
+1414,2026-10-01 11:45:00,2026-10-01,11:45 AM,Sophomore,Pete Navratil,False,False
+1414,2026-10-01 12:30:00,2026-10-01,12:30 PM,Senior,Kendal Schreiber,False,False
+1414,2026-10-01 12:45:00,2026-10-01,12:45 PM,Senior,Kendal Schreiber,False,False
+1414,2026-10-01 13:00:00,2026-10-01,1:00 PM,Senior,Kendal Schreiber,False,False
+1414,2026-10-01 13:15:00,2026-10-01,1:15 PM,Senior,Kendal Schreiber,False,False
+1414,2026-10-01 14:30:00,2026-10-01,2:30 PM,Junior,Marley Van Domelan,False,False
+1414,2026-10-01 14:45:00,2026-10-01,2:45 PM,Junior,Marley Van Domelan,False,False
+1414,2026-10-01 18:45:00,2026-10-01,6:45 PM,Freshman,Adam Hein,False,False
+1414,2026-10-01 19:00:00,2026-10-01,7:00 PM,Freshman,Adam Hein,False,False
+1414,2026-10-01 19:15:00,2026-10-01,7:15 PM,Freshman,Adam Hein,False,False
+1414,2026-10-01 19:30:00,2026-10-01,7:30 PM,Freshman,Adam Hein,False,False
+1414,2026-10-02 10:00:00,2026-10-02,10:00 AM,Freshman,Adam Hein,False,False
+1414,2026-10-02 10:15:00,2026-10-02,10:15 AM,Freshman,Adam Hein,False,False
+1414,2026-10-02 10:30:00,2026-10-02,10:30 AM,Freshman,Adam Hein,False,False
+1414,2026-10-02 10:45:00,2026-10-02,10:45 AM,Freshman,Adam Hein,False,False
+1414,2026-10-02 11:00:00,2026-10-02,11:00 AM,Freshman,Adam Hein,False,False
+1414,2026-10-02 11:15:00,2026-10-02,11:15 AM,Freshman,Adam Hein,False,False
+1414,2026-10-02 11:30:00,2026-10-02,11:30 AM,Freshman,Adam Hein,False,False
+1414,2026-10-02 11:45:00,2026-10-02,11:45 AM,Freshman,Adam Hein,False,False
+1414,2026-10-02 14:45:00,2026-10-02,2:45 PM,Sophomore,Pete Navratil,False,False
+1414,2026-10-02 15:00:00,2026-10-02,3:00 PM,Sophomore,Pete Navratil,False,False
+1414,2026-10-02 15:15:00,2026-10-02,3:15 PM,Sophomore,Pete Navratil,False,False
+1414,2026-10-02 15:30:00,2026-10-02,3:30 PM,Sophomore,Pete Navratil,False,False
+1414,2026-10-02 15:45:00,2026-10-02,3:45 PM,Sophomore,Pete Navratil,False,False
+1414,2026-10-02 16:00:00,2026-10-02,4:00 PM,Sophomore,Pete Navratil,False,False
+1414,2026-10-02 17:15:00,2026-10-02,5:15 PM,Freshman,Adam Hein,False,False
+1414,2026-10-02 17:30:00,2026-10-02,5:30 PM,Freshman,Adam Hein,False,False
+1414,2026-10-02 17:45:00,2026-10-02,5:45 PM,Freshman,Adam Hein,False,False
+1414,2026-10-02 18:00:00,2026-10-02,6:00 PM,Freshman,Adam Hein,False,False
+1414,2026-10-02 18:15:00,2026-10-02,6:15 PM,Freshman,Adam Hein,False,False
+1414,2026-10-03 14:30:00,2026-10-03,2:30 PM,DMA,Jaime Cardenas,False,False
+1414,2026-10-03 14:45:00,2026-10-03,2:45 PM,DMA,Jaime Cardenas,False,False
+1414,2026-10-03 15:00:00,2026-10-03,3:00 PM,DMA,Jaime Cardenas,False,False
+1414,2026-10-03 15:15:00,2026-10-03,3:15 PM,DMA,Jaime Cardenas,False,False
+1414,2026-10-03 15:30:00,2026-10-03,3:30 PM,DMA,Jaime Cardenas,False,False
+1414,2026-10-03 18:30:00,2026-10-03,6:30 PM,Freshman,John Griffin,False,False
+1414,2026-10-03 18:45:00,2026-10-03,6:45 PM,Freshman,John Griffin,False,False
+1414,2026-10-04 11:30:00,2026-10-04,11:30 AM,DMA,Jaime Cardenas,False,False
+1414,2026-10-04 11:45:00,2026-10-04,11:45 AM,DMA,Jaime Cardenas,False,False
+1414,2026-10-04 12:00:00,2026-10-04,12:00 PM,DMA,Jaime Cardenas,False,False
+1414,2026-10-04 12:15:00,2026-10-04,12:15 PM,DMA,Jaime Cardenas,False,False
+1414,2026-10-04 12:30:00,2026-10-04,12:30 PM,DMA,Jaime Cardenas,False,False
+1414,2026-10-04 12:45:00,2026-10-04,12:45 PM,DMA,Jaime Cardenas,False,False
+1414,2026-10-04 13:00:00,2026-10-04,1:00 PM,DMA,Jaime Cardenas,False,False
+1414,2026-10-04 13:15:00,2026-10-04,1:15 PM,DMA,Jaime Cardenas,False,False
+1414,2026-10-04 14:00:00,2026-10-04,2:00 PM,Freshman,John Griffin,False,False
+1414,2026-10-04 14:15:00,2026-10-04,2:15 PM,Freshman,John Griffin,False,False
+1414,2026-10-04 14:30:00,2026-10-04,2:30 PM,Freshman,John Griffin,False,False
+1414,2026-10-04 14:45:00,2026-10-04,2:45 PM,Freshman,John Griffin,False,False
+1414,2026-10-04 15:00:00,2026-10-04,3:00 PM,Freshman,Adam Hein,False,False
+1414,2026-10-04 15:15:00,2026-10-04,3:15 PM,Freshman,Adam Hein,False,False
+1414,2026-10-04 15:30:00,2026-10-04,3:30 PM,Freshman,Adam Hein,False,False
+1414,2026-10-04 15:45:00,2026-10-04,3:45 PM,Freshman,Adam Hein,False,False
 1416,2025-12-08 12:00:00,2025-12-08,12:00 PM,Junior,Marley Van Domelan,False,False
 1416,2025-12-08 12:15:00,2025-12-08,12:15 PM,Junior,Marley Van Domelan,False,False
 1416,2025-12-08 12:30:00,2025-12-08,12:30 PM,Junior,Marley Van Domelan,False,False
@@ -15015,6 +15659,30 @@ room,datetime,day,time,grade,person,is_lesson,is_other
 1416,2026-09-26 15:15:00,2026-09-26,3:15 PM,Junior,Cooper Atkinson,False,False
 1416,2026-09-26 15:30:00,2026-09-26,3:30 PM,Junior,Cooper Atkinson,False,False
 1416,2026-09-26 15:45:00,2026-09-26,3:45 PM,Junior,Cooper Atkinson,False,False
+1416,2026-09-28 09:30:00,2026-09-28,9:30 AM,Junior,Marley Van Domelan,False,False
+1416,2026-09-28 09:45:00,2026-09-28,9:45 AM,Junior,Marley Van Domelan,False,False
+1416,2026-09-28 10:00:00,2026-09-28,10:00 AM,Junior,Marley Van Domelan,False,False
+1416,2026-09-28 10:15:00,2026-09-28,10:15 AM,Junior,Marley Van Domelan,False,False
+1416,2026-09-28 10:30:00,2026-09-28,10:30 AM,Junior,Marley Van Domelan,False,False
+1416,2026-09-28 13:45:00,2026-09-28,1:45 PM,Sophomore,Pete Navratil,False,False
+1416,2026-09-28 14:00:00,2026-09-28,2:00 PM,Sophomore,Pete Navratil,False,False
+1416,2026-09-28 21:00:00,2026-09-28,9:00 PM,Sophomore,Nick Ruplinger,False,False
+1416,2026-09-28 21:15:00,2026-09-28,9:15 PM,Sophomore,Nick Ruplinger,False,False
+1416,2026-09-28 21:30:00,2026-09-28,9:30 PM,Sophomore,Nick Ruplinger,False,False
+1416,2026-09-29 09:45:00,2026-09-29,9:45 AM,Junior,Aaron Dieter,False,False
+1416,2026-09-29 10:00:00,2026-09-29,10:00 AM,Junior,Aaron Dieter,False,False
+1416,2026-09-29 10:15:00,2026-09-29,10:15 AM,Junior,Aaron Dieter,False,False
+1416,2026-09-29 11:00:00,2026-09-29,11:00 AM,Unknown,Colin + Pete,False,True
+1416,2026-09-29 11:15:00,2026-09-29,11:15 AM,Unknown,Colin + Pete,False,True
+1416,2026-09-29 11:30:00,2026-09-29,11:30 AM,Unknown,Colin + Pete,False,True
+1416,2026-09-29 11:45:00,2026-09-29,11:45 AM,Unknown,Colin + Pete,False,True
+1416,2026-09-30 09:45:00,2026-09-30,9:45 AM,Sophomore,Pete Navratil,False,False
+1416,2026-09-30 10:30:00,2026-09-30,10:30 AM,Junior,Marley Van Domelan,False,False
+1416,2026-09-30 10:45:00,2026-09-30,10:45 AM,Junior,Marley Van Domelan,False,False
+1416,2026-09-30 11:00:00,2026-09-30,11:00 AM,Junior,Marley Van Domelan,False,False
+1416,2026-09-30 11:15:00,2026-09-30,11:15 AM,Junior,Marley Van Domelan,False,False
+1416,2026-09-30 11:30:00,2026-09-30,11:30 AM,Junior,Marley Van Domelan,False,False
+1416,2026-09-30 11:45:00,2026-09-30,11:45 AM,Junior,Marley Van Domelan,False,False
 1417,2025-12-08 10:00:00,2025-12-08,10:00 AM,Sophomore,Pete Navratil,False,False
 1417,2025-12-08 10:15:00,2025-12-08,10:15 AM,Sophomore,Pete Navratil,False,False
 1417,2025-12-08 10:30:00,2025-12-08,10:30 AM,Sophomore,Pete Navratil,False,False
@@ -16184,6 +16852,38 @@ room,datetime,day,time,grade,person,is_lesson,is_other
 1417,2026-09-26 16:15:00,2026-09-26,4:15 PM,Sophomore,Pete Navratil,False,False
 1417,2026-09-26 16:30:00,2026-09-26,4:30 PM,Sophomore,Pete Navratil,False,False
 1417,2026-09-26 16:45:00,2026-09-26,4:45 PM,Sophomore,Pete Navratil,False,False
+1417,2026-09-28 10:30:00,2026-09-28,10:30 AM,Sophomore,Pete Navratil,False,False
+1417,2026-09-28 10:45:00,2026-09-28,10:45 AM,Sophomore,Pete Navratil,False,False
+1417,2026-09-28 15:15:00,2026-09-28,3:15 PM,Sophomore,Pete Navratil,False,False
+1417,2026-09-28 15:30:00,2026-09-28,3:30 PM,Sophomore,Pete Navratil,False,False
+1417,2026-09-29 09:45:00,2026-09-29,9:45 AM,Freshman,John Griffin,False,False
+1417,2026-09-29 10:00:00,2026-09-29,10:00 AM,Freshman,John Griffin,False,False
+1417,2026-09-29 10:15:00,2026-09-29,10:15 AM,Freshman,John Griffin,False,False
+1417,2026-09-29 10:30:00,2026-09-29,10:30 AM,Freshman,John Griffin,False,False
+1417,2026-09-29 11:00:00,2026-09-29,11:00 AM,Freshman,Adam Hein,False,False
+1417,2026-09-29 11:15:00,2026-09-29,11:15 AM,Freshman,Adam Hein,False,False
+1417,2026-09-29 12:30:00,2026-09-29,12:30 PM,Senior,Kendal Schreiber,False,False
+1417,2026-09-29 12:45:00,2026-09-29,12:45 PM,Senior,Kendal Schreiber,False,False
+1417,2026-09-29 13:00:00,2026-09-29,1:00 PM,Senior,Kendal Schreiber,False,False
+1417,2026-09-29 13:15:00,2026-09-29,1:15 PM,Senior,Kendal Schreiber,False,False
+1417,2026-09-30 14:00:00,2026-09-30,2:00 PM,Sophomore,Nick Ruplinger,False,False
+1417,2026-09-30 14:15:00,2026-09-30,2:15 PM,Sophomore,Nick Ruplinger,False,False
+1417,2026-09-30 14:30:00,2026-09-30,2:30 PM,Sophomore,Nick Ruplinger,False,False
+1417,2026-09-30 14:45:00,2026-09-30,2:45 PM,Sophomore,Nick Ruplinger,False,False
+1417,2026-09-30 21:30:00,2026-09-30,9:30 PM,Sophomore,Pete Navratil,False,False
+1417,2026-09-30 21:45:00,2026-09-30,9:45 PM,Sophomore,Pete Navratil,False,False
+1417,2026-09-30 22:00:00,2026-09-30,10:00 PM,Sophomore,Pete Navratil,False,False
+1417,2026-10-01 11:00:00,2026-10-01,11:00 AM,Freshman,Adam Hein,False,False
+1417,2026-10-01 11:15:00,2026-10-01,11:15 AM,Freshman,Adam Hein,False,False
+1417,2026-10-01 17:30:00,2026-10-01,5:30 PM,Sophomore,Pete Navratil,False,False
+1417,2026-10-01 17:45:00,2026-10-01,5:45 PM,Sophomore,Pete Navratil,False,False
+1417,2026-10-01 18:00:00,2026-10-01,6:00 PM,Sophomore,Pete Navratil,False,False
+1417,2026-10-01 18:15:00,2026-10-01,6:15 PM,Sophomore,Pete Navratil,False,False
+1417,2026-10-02 14:45:00,2026-10-02,2:45 PM,Freshman,Adam Hein,False,False
+1417,2026-10-02 15:00:00,2026-10-02,3:00 PM,Freshman,Adam Hein,False,False
+1417,2026-10-02 15:15:00,2026-10-02,3:15 PM,Freshman,Adam Hein,False,False
+1417,2026-10-04 15:30:00,2026-10-04,3:30 PM,Senior,Alex Seitler,False,False
+1417,2026-10-04 15:45:00,2026-10-04,3:45 PM,Senior,Alex Seitler,False,False
 1418,2025-12-09 13:00:00,2025-12-09,1:00 PM,Unknown,Vibe out,False,True
 1418,2025-12-09 13:15:00,2025-12-09,1:15 PM,Unknown,Vibe out,False,True
 1418,2025-12-09 13:30:00,2025-12-09,1:30 PM,Unknown,Vibe out,False,True
@@ -16811,6 +17511,49 @@ room,datetime,day,time,grade,person,is_lesson,is_other
 1418,2026-09-27 10:45:00,2026-09-27,10:45 AM,Senior,Kendal Schreiber,False,False
 1418,2026-09-27 15:15:00,2026-09-27,3:15 PM,Senior,Kendal Schreiber,False,False
 1418,2026-09-27 15:30:00,2026-09-27,3:30 PM,Senior,Kendal Schreiber,False,False
+1418,2026-09-28 09:00:00,2026-09-28,9:00 AM,DMA,Anna Desfor,False,False
+1418,2026-09-28 09:15:00,2026-09-28,9:15 AM,DMA,Anna Desfor,False,False
+1418,2026-09-28 09:30:00,2026-09-28,9:30 AM,DMA,Anna Desfor,False,False
+1418,2026-09-28 09:45:00,2026-09-28,9:45 AM,DMA,Anna Desfor,False,False
+1418,2026-09-28 10:00:00,2026-09-28,10:00 AM,DMA,Anna Desfor,False,False
+1418,2026-09-28 10:15:00,2026-09-28,10:15 AM,DMA,Anna Desfor,False,False
+1418,2026-09-28 10:30:00,2026-09-28,10:30 AM,DMA,Anna Desfor,False,False
+1418,2026-09-28 16:45:00,2026-09-28,4:45 PM,Senior,Ravlin Frantz,False,False
+1418,2026-09-28 17:00:00,2026-09-28,5:00 PM,Senior,Ravlin Frantz,False,False
+1418,2026-09-28 17:15:00,2026-09-28,5:15 PM,Senior,Ravlin Frantz,False,False
+1418,2026-09-28 17:30:00,2026-09-28,5:30 PM,Senior,Ravlin Frantz,False,False
+1418,2026-09-29 11:30:00,2026-09-29,11:30 AM,Freshman,Adam Hein,False,False
+1418,2026-09-29 11:45:00,2026-09-29,11:45 AM,Freshman,Adam Hein,False,False
+1418,2026-09-29 12:30:00,2026-09-29,12:30 PM,Junior,Cooper Atkinson,False,False
+1418,2026-09-29 12:45:00,2026-09-29,12:45 PM,Junior,Cooper Atkinson,False,False
+1418,2026-09-29 13:00:00,2026-09-29,1:00 PM,Junior,Cooper Atkinson,False,False
+1418,2026-09-29 18:15:00,2026-09-29,6:15 PM,Senior,Kendal Schreiber,False,False
+1418,2026-09-29 18:30:00,2026-09-29,6:30 PM,Senior,Kendal Schreiber,False,False
+1418,2026-09-30 09:00:00,2026-09-30,9:00 AM,Senior,Ravlin Frantz,False,False
+1418,2026-09-30 09:15:00,2026-09-30,9:15 AM,Senior,Ravlin Frantz,False,False
+1418,2026-09-30 09:30:00,2026-09-30,9:30 AM,Senior,Ravlin Frantz,False,False
+1418,2026-09-30 09:45:00,2026-09-30,9:45 AM,Senior,Ravlin Frantz,False,False
+1418,2026-09-30 10:00:00,2026-09-30,10:00 AM,Junior,Aaron Dieter,False,False
+1418,2026-09-30 10:15:00,2026-09-30,10:15 AM,Junior,Aaron Dieter,False,False
+1418,2026-09-30 10:30:00,2026-09-30,10:30 AM,Junior,Aaron Dieter,False,False
+1418,2026-09-30 10:45:00,2026-09-30,10:45 AM,Junior,Aaron Dieter,False,False
+1418,2026-10-01 11:30:00,2026-10-01,11:30 AM,Freshman,Adam Hein,False,False
+1418,2026-10-01 11:45:00,2026-10-01,11:45 AM,Freshman,Adam Hein,False,False
+1418,2026-10-01 13:30:00,2026-10-01,1:30 PM,Senior,Kendal Schreiber,False,False
+1418,2026-10-01 13:45:00,2026-10-01,1:45 PM,Senior,Kendal Schreiber,False,False
+1418,2026-10-01 14:00:00,2026-10-01,2:00 PM,Senior,Kendal Schreiber,False,False
+1418,2026-10-01 14:30:00,2026-10-01,2:30 PM,Senior,Ravlin Frantz,False,False
+1418,2026-10-01 14:45:00,2026-10-01,2:45 PM,Senior,Ravlin Frantz,False,False
+1418,2026-10-02 10:30:00,2026-10-02,10:30 AM,Senior,Ravlin Frantz,False,False
+1418,2026-10-02 10:45:00,2026-10-02,10:45 AM,Freshman,Colin Mortimore,False,False
+1418,2026-10-03 15:15:00,2026-10-03,3:15 PM,Senior,Kendal Schreiber,False,False
+1418,2026-10-03 15:30:00,2026-10-03,3:30 PM,Senior,Kendal Schreiber,False,False
+1418,2026-10-04 14:30:00,2026-10-04,2:30 PM,Freshman,Adam Hein,False,False
+1418,2026-10-04 14:45:00,2026-10-04,2:45 PM,Freshman,Adam Hein,False,False
+1418,2026-10-04 15:00:00,2026-10-04,3:00 PM,Senior,Kendal Schreiber,False,False
+1418,2026-10-04 15:15:00,2026-10-04,3:15 PM,Senior,Kendal Schreiber,False,False
+1418,2026-10-04 15:30:00,2026-10-04,3:30 PM,Sophomore,Nick Ruplinger,False,False
+1418,2026-10-04 15:45:00,2026-10-04,3:45 PM,Sophomore,Nick Ruplinger,False,False
 Studio,2025-12-08 09:45:00,2025-12-08,9:45 AM,Unknown,LESSONS,True,True
 Studio,2025-12-08 10:00:00,2025-12-08,10:00 AM,Unknown,LESSONS,True,True
 Studio,2025-12-08 10:15:00,2025-12-08,10:15 AM,Unknown,LESSONS,True,True
@@ -21267,3 +22010,191 @@ Studio,2026-09-27 16:00:00,2026-09-27,4:00 PM,Junior,Aaron Dieter,False,False
 Studio,2026-09-27 16:15:00,2026-09-27,4:15 PM,Junior,Aaron Dieter,False,False
 Studio,2026-09-27 16:30:00,2026-09-27,4:30 PM,Junior,Aaron Dieter,False,False
 Studio,2026-09-27 16:45:00,2026-09-27,4:45 PM,Junior,Aaron Dieter,False,False
+Studio,2026-09-28 08:45:00,2026-09-28,8:45 AM,Freshman,Adam Hein,False,False
+Studio,2026-09-28 09:00:00,2026-09-28,9:00 AM,Freshman,Adam Hein,False,False
+Studio,2026-09-28 09:15:00,2026-09-28,9:15 AM,Freshman,Adam Hein,False,False
+Studio,2026-09-28 09:30:00,2026-09-28,9:30 AM,Freshman,Adam Hein,False,False
+Studio,2026-09-28 09:45:00,2026-09-28,9:45 AM,Unknown,LESSONS,True,True
+Studio,2026-09-28 10:00:00,2026-09-28,10:00 AM,Unknown,LESSONS,True,True
+Studio,2026-09-28 10:15:00,2026-09-28,10:15 AM,Unknown,LESSONS,True,True
+Studio,2026-09-28 10:30:00,2026-09-28,10:30 AM,Unknown,LESSONS,True,True
+Studio,2026-09-28 10:45:00,2026-09-28,10:45 AM,Unknown,LESSONS,True,True
+Studio,2026-09-28 11:00:00,2026-09-28,11:00 AM,Unknown,LESSONS,True,True
+Studio,2026-09-28 11:15:00,2026-09-28,11:15 AM,Unknown,LESSONS,True,True
+Studio,2026-09-28 11:30:00,2026-09-28,11:30 AM,Unknown,LESSONS,True,True
+Studio,2026-09-28 11:45:00,2026-09-28,11:45 AM,Unknown,LESSONS,True,True
+Studio,2026-09-28 13:15:00,2026-09-28,1:15 PM,Unknown,LESSONS,True,True
+Studio,2026-09-28 13:30:00,2026-09-28,1:30 PM,Unknown,LESSONS,True,True
+Studio,2026-09-28 13:45:00,2026-09-28,1:45 PM,Unknown,LESSONS,True,True
+Studio,2026-09-28 14:00:00,2026-09-28,2:00 PM,Unknown,LESSONS,True,True
+Studio,2026-09-28 14:15:00,2026-09-28,2:15 PM,Unknown,LESSONS,True,True
+Studio,2026-09-28 14:30:00,2026-09-28,2:30 PM,Unknown,LESSONS,True,True
+Studio,2026-09-28 14:45:00,2026-09-28,2:45 PM,Unknown,LESSONS,True,True
+Studio,2026-09-28 15:00:00,2026-09-28,3:00 PM,Unknown,LESSONS,True,True
+Studio,2026-09-28 15:15:00,2026-09-28,3:15 PM,Unknown,LESSONS,True,True
+Studio,2026-09-28 15:45:00,2026-09-28,3:45 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-09-28 16:00:00,2026-09-28,4:00 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-09-28 16:15:00,2026-09-28,4:15 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-09-28 16:30:00,2026-09-28,4:30 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-09-28 16:45:00,2026-09-28,4:45 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-09-28 17:00:00,2026-09-28,5:00 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-09-28 17:15:00,2026-09-28,5:15 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-09-28 17:30:00,2026-09-28,5:30 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-09-28 19:00:00,2026-09-28,7:00 PM,Senior,Ellis Goeden,False,False
+Studio,2026-09-28 19:15:00,2026-09-28,7:15 PM,Senior,Ellis Goeden,False,False
+Studio,2026-09-28 19:30:00,2026-09-28,7:30 PM,Senior,Ellis Goeden,False,False
+Studio,2026-09-28 19:45:00,2026-09-28,7:45 PM,Senior,Ellis Goeden,False,False
+Studio,2026-09-28 20:00:00,2026-09-28,8:00 PM,Senior,Ellis Goeden,False,False
+Studio,2026-09-28 20:15:00,2026-09-28,8:15 PM,Senior,Ellis Goeden,False,False
+Studio,2026-09-29 08:30:00,2026-09-29,8:30 AM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-29 08:45:00,2026-09-29,8:45 AM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-29 09:00:00,2026-09-29,9:00 AM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-29 09:15:00,2026-09-29,9:15 AM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-29 09:45:00,2026-09-29,9:45 AM,Unknown,LESSONS,True,True
+Studio,2026-09-29 10:00:00,2026-09-29,10:00 AM,Unknown,LESSONS,True,True
+Studio,2026-09-29 10:15:00,2026-09-29,10:15 AM,Unknown,LESSONS,True,True
+Studio,2026-09-29 10:30:00,2026-09-29,10:30 AM,Unknown,LESSONS,True,True
+Studio,2026-09-29 10:45:00,2026-09-29,10:45 AM,Unknown,LESSONS,True,True
+Studio,2026-09-29 12:45:00,2026-09-29,12:45 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-09-29 13:00:00,2026-09-29,1:00 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-09-29 13:15:00,2026-09-29,1:15 PM,Unknown,LESSONS,True,True
+Studio,2026-09-29 13:30:00,2026-09-29,1:30 PM,Unknown,LESSONS,True,True
+Studio,2026-09-29 13:45:00,2026-09-29,1:45 PM,Unknown,LESSONS,True,True
+Studio,2026-09-29 14:00:00,2026-09-29,2:00 PM,Unknown,LESSONS,True,True
+Studio,2026-09-29 14:15:00,2026-09-29,2:15 PM,Unknown,LESSONS,True,True
+Studio,2026-09-29 14:30:00,2026-09-29,2:30 PM,Unknown,LESSONS,True,True
+Studio,2026-09-29 14:45:00,2026-09-29,2:45 PM,Unknown,LESSONS,True,True
+Studio,2026-09-29 15:00:00,2026-09-29,3:00 PM,Unknown,LESSONS,True,True
+Studio,2026-09-29 15:15:00,2026-09-29,3:15 PM,Unknown,LESSONS,True,True
+Studio,2026-09-29 15:45:00,2026-09-29,3:45 PM,Junior,Aaron Dieter,False,False
+Studio,2026-09-29 16:00:00,2026-09-29,4:00 PM,Junior,Aaron Dieter,False,False
+Studio,2026-09-29 16:15:00,2026-09-29,4:15 PM,Junior,Aaron Dieter,False,False
+Studio,2026-09-29 16:30:00,2026-09-29,4:30 PM,Sophomore,Pete Navratil,False,False
+Studio,2026-09-29 16:45:00,2026-09-29,4:45 PM,Sophomore,Pete Navratil,False,False
+Studio,2026-09-29 17:00:00,2026-09-29,5:00 PM,Sophomore,Pete Navratil,False,False
+Studio,2026-09-29 17:15:00,2026-09-29,5:15 PM,Sophomore,Pete Navratil,False,False
+Studio,2026-09-29 19:15:00,2026-09-29,7:15 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-29 19:30:00,2026-09-29,7:30 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-29 19:45:00,2026-09-29,7:45 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-29 20:00:00,2026-09-29,8:00 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-29 20:15:00,2026-09-29,8:15 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-29 20:30:00,2026-09-29,8:30 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-29 20:45:00,2026-09-29,8:45 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-29 21:00:00,2026-09-29,9:00 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-30 07:45:00,2026-09-30,7:45 AM,Sophomore,Nick Ruplinger,False,False
+Studio,2026-09-30 08:00:00,2026-09-30,8:00 AM,Sophomore,Nick Ruplinger,False,False
+Studio,2026-09-30 08:15:00,2026-09-30,8:15 AM,Sophomore,Nick Ruplinger,False,False
+Studio,2026-09-30 08:30:00,2026-09-30,8:30 AM,Sophomore,Nick Ruplinger,False,False
+Studio,2026-09-30 09:15:00,2026-09-30,9:15 AM,DMA,Anna Desfor,False,False
+Studio,2026-09-30 09:30:00,2026-09-30,9:30 AM,DMA,Anna Desfor,False,False
+Studio,2026-09-30 09:45:00,2026-09-30,9:45 AM,DMA,Anna Desfor,False,False
+Studio,2026-09-30 10:00:00,2026-09-30,10:00 AM,DMA,Anna Desfor,False,False
+Studio,2026-09-30 10:15:00,2026-09-30,10:15 AM,DMA,Anna Desfor,False,False
+Studio,2026-09-30 10:30:00,2026-09-30,10:30 AM,DMA,Anna Desfor,False,False
+Studio,2026-09-30 10:45:00,2026-09-30,10:45 AM,DMA,Anna Desfor,False,False
+Studio,2026-09-30 11:00:00,2026-09-30,11:00 AM,DMA,Anna Desfor,False,False
+Studio,2026-09-30 12:00:00,2026-09-30,12:00 PM,Unknown,LESSONS,True,True
+Studio,2026-09-30 12:15:00,2026-09-30,12:15 PM,Unknown,LESSONS,True,True
+Studio,2026-09-30 12:30:00,2026-09-30,12:30 PM,Unknown,LESSONS,True,True
+Studio,2026-09-30 12:45:00,2026-09-30,12:45 PM,Unknown,LESSONS,True,True
+Studio,2026-09-30 13:00:00,2026-09-30,1:00 PM,Unknown,LESSONS,True,True
+Studio,2026-09-30 13:15:00,2026-09-30,1:15 PM,Unknown,LESSONS,True,True
+Studio,2026-09-30 13:30:00,2026-09-30,1:30 PM,Unknown,LESSONS,True,True
+Studio,2026-09-30 13:45:00,2026-09-30,1:45 PM,Unknown,LESSONS,True,True
+Studio,2026-09-30 14:00:00,2026-09-30,2:00 PM,Unknown,LESSONS,True,True
+Studio,2026-09-30 14:15:00,2026-09-30,2:15 PM,Unknown,LESSONS,True,True
+Studio,2026-09-30 14:30:00,2026-09-30,2:30 PM,Unknown,LESSONS,True,True
+Studio,2026-09-30 14:45:00,2026-09-30,2:45 PM,Unknown,LESSONS,True,True
+Studio,2026-09-30 15:00:00,2026-09-30,3:00 PM,Unknown,LESSONS,True,True
+Studio,2026-09-30 15:15:00,2026-09-30,3:15 PM,Unknown,LESSON,False,True
+Studio,2026-09-30 16:15:00,2026-09-30,4:15 PM,Freshman,Adam Hein,False,False
+Studio,2026-09-30 16:30:00,2026-09-30,4:30 PM,Freshman,Adam Hein,False,False
+Studio,2026-09-30 16:45:00,2026-09-30,4:45 PM,Freshman,Adam Hein,False,False
+Studio,2026-09-30 17:00:00,2026-09-30,5:00 PM,Freshman,Adam Hein,False,False
+Studio,2026-09-30 18:15:00,2026-09-30,6:15 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-09-30 18:30:00,2026-09-30,6:30 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-09-30 21:00:00,2026-09-30,9:00 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-30 21:15:00,2026-09-30,9:15 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-30 21:30:00,2026-09-30,9:30 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-30 21:45:00,2026-09-30,9:45 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-30 22:00:00,2026-09-30,10:00 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-09-30 22:15:00,2026-09-30,10:15 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-10-01 08:15:00,2026-10-01,8:15 AM,Senior,Ravlin Frantz,False,False
+Studio,2026-10-01 08:30:00,2026-10-01,8:30 AM,Senior,Ravlin Frantz,False,False
+Studio,2026-10-01 08:45:00,2026-10-01,8:45 AM,Senior,Ravlin Frantz,False,False
+Studio,2026-10-01 09:00:00,2026-10-01,9:00 AM,Senior,Ravlin Frantz,False,False
+Studio,2026-10-01 09:15:00,2026-10-01,9:15 AM,Senior,Ravlin Frantz,False,False
+Studio,2026-10-01 09:30:00,2026-10-01,9:30 AM,Senior,Ravlin Frantz,False,False
+Studio,2026-10-01 09:45:00,2026-10-01,9:45 AM,Unknown,LESSONS,True,True
+Studio,2026-10-01 10:00:00,2026-10-01,10:00 AM,Unknown,LESSONS,True,True
+Studio,2026-10-01 10:15:00,2026-10-01,10:15 AM,Unknown,LESSONS,True,True
+Studio,2026-10-01 10:30:00,2026-10-01,10:30 AM,Unknown,LESSONS,True,True
+Studio,2026-10-01 10:45:00,2026-10-01,10:45 AM,Unknown,LESSONS,True,True
+Studio,2026-10-01 11:00:00,2026-10-01,11:00 AM,Unknown,LESSONS,True,True
+Studio,2026-10-01 11:15:00,2026-10-01,11:15 AM,Unknown,LESSONS,True,True
+Studio,2026-10-01 11:30:00,2026-10-01,11:30 AM,Unknown,LESSONS,True,True
+Studio,2026-10-01 11:45:00,2026-10-01,11:45 AM,Unknown,LESSONS,True,True
+Studio,2026-10-01 13:15:00,2026-10-01,1:15 PM,Unknown,LESSONS,True,True
+Studio,2026-10-01 13:30:00,2026-10-01,1:30 PM,Unknown,LESSONS,True,True
+Studio,2026-10-01 13:45:00,2026-10-01,1:45 PM,Unknown,LESSONS,True,True
+Studio,2026-10-01 14:00:00,2026-10-01,2:00 PM,Unknown,LESSONS,True,True
+Studio,2026-10-01 14:15:00,2026-10-01,2:15 PM,Unknown,LESSONS,True,True
+Studio,2026-10-02 07:45:00,2026-10-02,7:45 AM,Freshman,Colin Mortimore,False,False
+Studio,2026-10-02 08:00:00,2026-10-02,8:00 AM,Freshman,Colin Mortimore,False,False
+Studio,2026-10-02 08:15:00,2026-10-02,8:15 AM,Freshman,Colin Mortimore,False,False
+Studio,2026-10-02 08:30:00,2026-10-02,8:30 AM,Freshman,Colin Mortimore,False,False
+Studio,2026-10-02 09:00:00,2026-10-02,9:00 AM,Junior,Marley Van Domelan,False,False
+Studio,2026-10-02 09:15:00,2026-10-02,9:15 AM,Junior,Marley Van Domelan,False,False
+Studio,2026-10-02 09:30:00,2026-10-02,9:30 AM,Junior,Marley Van Domelan,False,False
+Studio,2026-10-02 09:45:00,2026-10-02,9:45 AM,Junior,Marley Van Domelan,False,False
+Studio,2026-10-02 10:00:00,2026-10-02,10:00 AM,Junior,Marley Van Domelan,False,False
+Studio,2026-10-02 10:15:00,2026-10-02,10:15 AM,Junior,Marley Van Domelan,False,False
+Studio,2026-10-02 10:30:00,2026-10-02,10:30 AM,Junior,Marley Van Domelan,False,False
+Studio,2026-10-02 10:45:00,2026-10-02,10:45 AM,Junior,Marley Van Domelan,False,False
+Studio,2026-10-02 11:45:00,2026-10-02,11:45 AM,Senior,Alex Seitler,False,False
+Studio,2026-10-02 12:00:00,2026-10-02,12:00 PM,Senior,Alex Seitler,False,False
+Studio,2026-10-02 12:15:00,2026-10-02,12:15 PM,Senior,Alex Seitler,False,False
+Studio,2026-10-02 12:30:00,2026-10-02,12:30 PM,Senior,Alex Seitler,False,False
+Studio,2026-10-03 13:45:00,2026-10-03,1:45 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-10-03 14:00:00,2026-10-03,2:00 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-10-03 14:15:00,2026-10-03,2:15 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-10-03 14:30:00,2026-10-03,2:30 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-10-03 14:45:00,2026-10-03,2:45 PM,Senior,Ravlin Frantz,False,False
+Studio,2026-10-03 15:30:00,2026-10-03,3:30 PM,Freshman,Dante Baker,False,False
+Studio,2026-10-03 15:45:00,2026-10-03,3:45 PM,Freshman,Dante Baker,False,False
+Studio,2026-10-03 16:00:00,2026-10-03,4:00 PM,Freshman,Dante Baker,False,False
+Studio,2026-10-03 16:15:00,2026-10-03,4:15 PM,Freshman,Dante Baker,False,False
+Studio,2026-10-03 16:30:00,2026-10-03,4:30 PM,Freshman,Dante Baker,False,False
+Studio,2026-10-03 16:45:00,2026-10-03,4:45 PM,Freshman,Dante Baker,False,False
+Studio,2026-10-03 17:00:00,2026-10-03,5:00 PM,Freshman,Dante Baker,False,False
+Studio,2026-10-03 17:15:00,2026-10-03,5:15 PM,Freshman,Dante Baker,False,False
+Studio,2026-10-04 13:00:00,2026-10-04,1:00 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-10-04 13:15:00,2026-10-04,1:15 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-10-04 13:30:00,2026-10-04,1:30 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-10-04 13:45:00,2026-10-04,1:45 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-10-04 14:00:00,2026-10-04,2:00 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-10-04 14:15:00,2026-10-04,2:15 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-10-04 14:30:00,2026-10-04,2:30 PM,Junior,Cooper Atkinson,False,False
+Studio,2026-10-04 15:00:00,2026-10-04,3:00 PM,Senior,Alex Seitler,False,False
+Studio,2026-10-04 15:15:00,2026-10-04,3:15 PM,Senior,Alex Seitler,False,False
+Studio,2026-10-04 15:30:00,2026-10-04,3:30 PM,Senior,Nate Dreyfus,False,False
+Studio,2026-10-04 15:45:00,2026-10-04,3:45 PM,Senior,Nate Dreyfus,False,False
+Studio,2026-10-04 16:00:00,2026-10-04,4:00 PM,Senior,Nate Dreyfus,False,False
+Studio,2026-10-04 16:15:00,2026-10-04,4:15 PM,Senior,Nate Dreyfus,False,False
+Studio,2026-10-04 16:30:00,2026-10-04,4:30 PM,Senior,Nate Dreyfus,False,False
+Studio,2026-10-04 16:45:00,2026-10-04,4:45 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 17:00:00,2026-10-04,5:00 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 17:15:00,2026-10-04,5:15 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 17:30:00,2026-10-04,5:30 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 17:45:00,2026-10-04,5:45 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 18:00:00,2026-10-04,6:00 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 18:15:00,2026-10-04,6:15 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 18:30:00,2026-10-04,6:30 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 18:45:00,2026-10-04,6:45 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 19:00:00,2026-10-04,7:00 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 19:15:00,2026-10-04,7:15 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 19:30:00,2026-10-04,7:30 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 19:45:00,2026-10-04,7:45 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 20:00:00,2026-10-04,8:00 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 20:15:00,2026-10-04,8:15 PM,Unknown,Vibes Out,False,True
+Studio,2026-10-04 20:30:00,2026-10-04,8:30 PM,Unknown,Vibes Out,False,True
